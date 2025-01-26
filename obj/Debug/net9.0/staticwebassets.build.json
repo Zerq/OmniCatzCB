@@ -1,0 +1,5194 @@
+{
+  "Version": 1,
+  "Hash": "JDXeZeQHTkf6LeG5qCmixRKtfGFR8P2KafPcL00Izmc=",
+  "Source": "OmniCatzCB",
+  "BasePath": "_content/OmniCatzCB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OmniCatzCB/wwwroot",
+      "Source": "OmniCatzCB",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3bugnooc5a-e0yaavzu6v.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "elm#[.{fingerprint=e0yaavzu6v}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jw8z5io8oc",
+      "Integrity": "LbuzrUxge43VWGvu1dcIzyfiDxi5dslgm8cNWQ+8ego=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/91hk1pkio6-ijmkxa17uh.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/FileController#[.{fingerprint=ijmkxa17uh}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8n85mngwns",
+      "Integrity": "/LLTFpWmgJzwIvnKaDfHGTqVLU9LrOJ1lkopFC+dgNk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-6anr36kc5b.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/ComicBookController#[.{fingerprint=6anr36kc5b}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9t9ryqvs3n",
+      "Integrity": "k5vftsca8bbCyor4vmkkRnmM4rvYMZqseSSdJlKytyk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/gqvo2bfxr8-70zs9t2lcx.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/folder-open#[.{fingerprint=70zs9t2lcx}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder-open.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "i6rplntw7a",
+      "Integrity": "2hbtnuJLxFQ1TD4eelf1arltewvEzwFFEOskhQj9djk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder-open.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/lu3fdov69f-199ngaeqk9.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/application-vnd.comicbook+zip#[.{fingerprint=199ngaeqk9}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/application-vnd.comicbook+zip.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jsker4z1ng",
+      "Integrity": "w1sti8DD05J93riLrBMkM4ca9ek5hFOs6+IhrjdQnPE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/application-vnd.comicbook+zip.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/onawciptyk-7ma4gaiwif.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "index#[.{fingerprint=7ma4gaiwif}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zjioy4eu1a",
+      "Integrity": "78WawMoS8kRbCt+PHiNQsQ46MUJbU1WtvB/t+dfA3Wc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pt3nn2und9-fcxdye2rd3.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/drive-harddisk#[.{fingerprint=fcxdye2rd3}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/drive-harddisk.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ohvj4mn7lp",
+      "Integrity": "1A0KNxJuyH2DjqVGHXQeGYZSDNEK4XW3PQb+UBebIsc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/drive-harddisk.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-7073yyq904.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/ComicBookView#[.{fingerprint=7073yyq904}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "teem102n88",
+      "Integrity": "dXOXilXLJrxxCueitYo/mcd9vpYOu84TQgvQwHY9LYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/qinizpneyw-wpn191pi8j.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "router#[.{fingerprint=wpn191pi8j}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xuo1wi02ss",
+      "Integrity": "56OS9dBQkjePDxINqLf35nX8/rSBgpx4yK0C+QUvqAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/HomeView#[.{fingerprint=g26i7kla2x}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6s99z56clr",
+      "Integrity": "xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-ch5h3bokuu.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/HomeController#[.{fingerprint=ch5h3bokuu}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gv2648fect",
+      "Integrity": "DGhpaCq6nEhU8jjM2JI1dE4P8AK/kt1Sdx2wQaiwSpI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y617lj9s34-6xkrmjn019.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/FileView#[.{fingerprint=6xkrmjn019}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6upe9ixbox",
+      "Integrity": "TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-ky45qmn9xg.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "app#[.{fingerprint=ky45qmn9xg}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cqnpo7d9he",
+      "Integrity": "ZOhQ7ej3oa5wrwk3d+yi7YxAkGMScYnj6wPdY6XGgTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zr75c04nby-eekwpmw0o4.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/folder#[.{fingerprint=eekwpmw0o4}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uuivdlrkas",
+      "Integrity": "NsJwfLn1P/xqON9nEK3G6pYKnUdHaxi+H/UXqCyKNCQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ky45qmn9xg",
+      "Integrity": "XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/app.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/application-vnd.comicbook+zip.svg",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/application-vnd.comicbook+zip#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "199ngaeqk9",
+      "Integrity": "lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/application-vnd.comicbook+zip.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/drive-harddisk.svg",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/drive-harddisk#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fcxdye2rd3",
+      "Integrity": "8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/drive-harddisk.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder-open.svg",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/folder-open#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "70zs9t2lcx",
+      "Integrity": "Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/folder-open.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder.svg",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "assets/folder#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eekwpmw0o4",
+      "Integrity": "RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/folder.svg"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/ComicBookController#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6anr36kc5b",
+      "Integrity": "YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/controller/ComicBookController.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/FileController#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ijmkxa17uh",
+      "Integrity": "HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/controller/FileController.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/HomeController#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ch5h3bokuu",
+      "Integrity": "AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/controller/HomeController.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "elm#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e0yaavzu6v",
+      "Integrity": "rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/elm.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/index.html",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7ma4gaiwif",
+      "Integrity": "v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/ComicbBookModelLike.ts",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "model/ComicbBookModelLike#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pkeznlay28",
+      "Integrity": "d8A8rQz9iZCA3DVONDvsavYvN8UY6C3DE3CrlRCEmzc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/model/ComicbBookModelLike.ts"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/DirectoryInfoLike.ts",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "model/DirectoryInfoLike#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9gclrqzeg",
+      "Integrity": "nkEFfJmljAOgEfD3tYGGDVlrWmXJhQ+rI8WpOj3GOUs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/model/DirectoryInfoLike.ts"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/HomeModelLike.ts",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "model/HomeModelLike#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1yllgr8gi7",
+      "Integrity": "p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/model/HomeModelLike.ts"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "router#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wpn191pi8j",
+      "Integrity": "VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/router.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/ComicBookView#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7073yyq904",
+      "Integrity": "ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/views/ComicBookView.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/FileView#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6xkrmjn019",
+      "Integrity": "Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/views/FileView.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/HomeView#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g26i7kla2x",
+      "Integrity": "yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/views/HomeView.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ViewFunc.d.ts",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/ViewFunc.d#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2d2tepmio6",
+      "Integrity": "ypxOzoSLb9O625ALiLGl4CLhsgMmIhqCfkSTdqlzj3w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/views/ViewFunc.d.ts"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-ky45qmn9xg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002415458937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZOhQ7ej3oa5wrwk3d+yi7YxAkGMScYnj6wPdY6XGgTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc="
+        }
+      ]
+    },
+    {
+      "Route": "app.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc="
+        }
+      ]
+    },
+    {
+      "Route": "app.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-ky45qmn9xg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZOhQ7ej3oa5wrwk3d+yi7YxAkGMScYnj6wPdY6XGgTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZOhQ7ej3oa5wrwk3d+yi7YxAkGMScYnj6wPdY6XGgTA="
+        }
+      ]
+    },
+    {
+      "Route": "app.ky45qmn9xg.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-ky45qmn9xg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002415458937"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZOhQ7ej3oa5wrwk3d+yi7YxAkGMScYnj6wPdY6XGgTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ky45qmn9xg"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc="
+        }
+      ]
+    },
+    {
+      "Route": "app.ky45qmn9xg.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1067"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ky45qmn9xg"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc="
+        }
+      ]
+    },
+    {
+      "Route": "app.ky45qmn9xg.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-ky45qmn9xg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZOhQ7ej3oa5wrwk3d+yi7YxAkGMScYnj6wPdY6XGgTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 19:14:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ky45qmn9xg"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZOhQ7ej3oa5wrwk3d+yi7YxAkGMScYnj6wPdY6XGgTA="
+        }
+      ]
+    },
+    {
+      "Route": "assets/application-vnd.comicbook+zip.199ngaeqk9.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/lu3fdov69f-199ngaeqk9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001259445844"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w1sti8DD05J93riLrBMkM4ca9ek5hFOs6+IhrjdQnPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "199ngaeqk9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/application-vnd.comicbook+zip.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog="
+        }
+      ]
+    },
+    {
+      "Route": "assets/application-vnd.comicbook+zip.199ngaeqk9.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/application-vnd.comicbook+zip.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "199ngaeqk9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/application-vnd.comicbook+zip.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog="
+        }
+      ]
+    },
+    {
+      "Route": "assets/application-vnd.comicbook+zip.199ngaeqk9.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/lu3fdov69f-199ngaeqk9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w1sti8DD05J93riLrBMkM4ca9ek5hFOs6+IhrjdQnPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "199ngaeqk9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/application-vnd.comicbook+zip.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w1sti8DD05J93riLrBMkM4ca9ek5hFOs6+IhrjdQnPE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/application-vnd.comicbook+zip.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/lu3fdov69f-199ngaeqk9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001259445844"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w1sti8DD05J93riLrBMkM4ca9ek5hFOs6+IhrjdQnPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog="
+        }
+      ]
+    },
+    {
+      "Route": "assets/application-vnd.comicbook+zip.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/application-vnd.comicbook+zip.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lWYSIcJGeocncqaM4FRn3nHE2KOgqpc+aaGUKy6GPog="
+        }
+      ]
+    },
+    {
+      "Route": "assets/application-vnd.comicbook+zip.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/lu3fdov69f-199ngaeqk9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w1sti8DD05J93riLrBMkM4ca9ek5hFOs6+IhrjdQnPE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w1sti8DD05J93riLrBMkM4ca9ek5hFOs6+IhrjdQnPE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/drive-harddisk.fcxdye2rd3.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pt3nn2und9-fcxdye2rd3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002832861190"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1A0KNxJuyH2DjqVGHXQeGYZSDNEK4XW3PQb+UBebIsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcxdye2rd3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/drive-harddisk.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/drive-harddisk.fcxdye2rd3.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/drive-harddisk.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcxdye2rd3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/drive-harddisk.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/drive-harddisk.fcxdye2rd3.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pt3nn2und9-fcxdye2rd3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1A0KNxJuyH2DjqVGHXQeGYZSDNEK4XW3PQb+UBebIsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fcxdye2rd3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/drive-harddisk.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1A0KNxJuyH2DjqVGHXQeGYZSDNEK4XW3PQb+UBebIsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/drive-harddisk.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pt3nn2und9-fcxdye2rd3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002832861190"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1A0KNxJuyH2DjqVGHXQeGYZSDNEK4XW3PQb+UBebIsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/drive-harddisk.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/drive-harddisk.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8dsx15vH41iKeH1T5/lMhZJMGDjszbEsrJsclewSCpE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/drive-harddisk.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pt3nn2und9-fcxdye2rd3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1A0KNxJuyH2DjqVGHXQeGYZSDNEK4XW3PQb+UBebIsc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 28 Jul 2024 17:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1A0KNxJuyH2DjqVGHXQeGYZSDNEK4XW3PQb+UBebIsc="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder-open.70zs9t2lcx.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/gqvo2bfxr8-70zs9t2lcx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000520020801"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2hbtnuJLxFQ1TD4eelf1arltewvEzwFFEOskhQj9djk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70zs9t2lcx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/folder-open.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder-open.70zs9t2lcx.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder-open.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70zs9t2lcx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/folder-open.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder-open.70zs9t2lcx.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/gqvo2bfxr8-70zs9t2lcx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2hbtnuJLxFQ1TD4eelf1arltewvEzwFFEOskhQj9djk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "70zs9t2lcx"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/folder-open.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2hbtnuJLxFQ1TD4eelf1arltewvEzwFFEOskhQj9djk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder-open.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/gqvo2bfxr8-70zs9t2lcx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000520020801"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2hbtnuJLxFQ1TD4eelf1arltewvEzwFFEOskhQj9djk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder-open.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder-open.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nz3Z/mTueVwYjSSnZA6FtjJSIgE1ESm0L6gRWFMynOQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder-open.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/gqvo2bfxr8-70zs9t2lcx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1922"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2hbtnuJLxFQ1TD4eelf1arltewvEzwFFEOskhQj9djk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2hbtnuJLxFQ1TD4eelf1arltewvEzwFFEOskhQj9djk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder.eekwpmw0o4.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zr75c04nby-eekwpmw0o4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512295082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1951"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsJwfLn1P/xqON9nEK3G6pYKnUdHaxi+H/UXqCyKNCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eekwpmw0o4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/folder.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder.eekwpmw0o4.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eekwpmw0o4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/folder.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder.eekwpmw0o4.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zr75c04nby-eekwpmw0o4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsJwfLn1P/xqON9nEK3G6pYKnUdHaxi+H/UXqCyKNCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eekwpmw0o4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/folder.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsJwfLn1P/xqON9nEK3G6pYKnUdHaxi+H/UXqCyKNCQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zr75c04nby-eekwpmw0o4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000512295082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1951"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsJwfLn1P/xqON9nEK3G6pYKnUdHaxi+H/UXqCyKNCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder.svg",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RgAsIzO/0H1/MVbOvJqm/h3gjyDBwcFSsbp+YgSjKJs="
+        }
+      ]
+    },
+    {
+      "Route": "assets/folder.svg.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zr75c04nby-eekwpmw0o4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsJwfLn1P/xqON9nEK3G6pYKnUdHaxi+H/UXqCyKNCQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 May 2024 14:03:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsJwfLn1P/xqON9nEK3G6pYKnUdHaxi+H/UXqCyKNCQ="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.6anr36kc5b.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-6anr36kc5b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001776198934"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "562"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5vftsca8bbCyor4vmkkRnmM4rvYMZqseSSdJlKytyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6anr36kc5b"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/ComicBookController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.6anr36kc5b.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6anr36kc5b"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/ComicBookController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.6anr36kc5b.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-6anr36kc5b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5vftsca8bbCyor4vmkkRnmM4rvYMZqseSSdJlKytyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6anr36kc5b"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/ComicBookController.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5vftsca8bbCyor4vmkkRnmM4rvYMZqseSSdJlKytyk="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-6anr36kc5b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001776198934"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "562"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5vftsca8bbCyor4vmkkRnmM4rvYMZqseSSdJlKytyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-6anr36kc5b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"k5vftsca8bbCyor4vmkkRnmM4rvYMZqseSSdJlKytyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:29:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-k5vftsca8bbCyor4vmkkRnmM4rvYMZqseSSdJlKytyk="
+        }
+      ]
+    },
+    {
+      "Route": "controller/FileController.ijmkxa17uh.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/91hk1pkio6-ijmkxa17uh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LLTFpWmgJzwIvnKaDfHGTqVLU9LrOJ1lkopFC+dgNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:11:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijmkxa17uh"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/FileController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A="
+        }
+      ]
+    },
+    {
+      "Route": "controller/FileController.ijmkxa17uh.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:11:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijmkxa17uh"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/FileController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A="
+        }
+      ]
+    },
+    {
+      "Route": "controller/FileController.ijmkxa17uh.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/91hk1pkio6-ijmkxa17uh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LLTFpWmgJzwIvnKaDfHGTqVLU9LrOJ1lkopFC+dgNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:11:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ijmkxa17uh"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/FileController.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/LLTFpWmgJzwIvnKaDfHGTqVLU9LrOJ1lkopFC+dgNk="
+        }
+      ]
+    },
+    {
+      "Route": "controller/FileController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/91hk1pkio6-ijmkxa17uh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001838235294"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LLTFpWmgJzwIvnKaDfHGTqVLU9LrOJ1lkopFC+dgNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:11:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A="
+        }
+      ]
+    },
+    {
+      "Route": "controller/FileController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1480"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:11:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A="
+        }
+      ]
+    },
+    {
+      "Route": "controller/FileController.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/91hk1pkio6-ijmkxa17uh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LLTFpWmgJzwIvnKaDfHGTqVLU9LrOJ1lkopFC+dgNk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:11:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/LLTFpWmgJzwIvnKaDfHGTqVLU9LrOJ1lkopFC+dgNk="
+        }
+      ]
+    },
+    {
+      "Route": "controller/HomeController.ch5h3bokuu.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-ch5h3bokuu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003174603175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DGhpaCq6nEhU8jjM2JI1dE4P8AK/kt1Sdx2wQaiwSpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ch5h3bokuu"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/HomeController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M="
+        }
+      ]
+    },
+    {
+      "Route": "controller/HomeController.ch5h3bokuu.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ch5h3bokuu"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/HomeController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M="
+        }
+      ]
+    },
+    {
+      "Route": "controller/HomeController.ch5h3bokuu.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-ch5h3bokuu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DGhpaCq6nEhU8jjM2JI1dE4P8AK/kt1Sdx2wQaiwSpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ch5h3bokuu"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/HomeController.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DGhpaCq6nEhU8jjM2JI1dE4P8AK/kt1Sdx2wQaiwSpI="
+        }
+      ]
+    },
+    {
+      "Route": "controller/HomeController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-ch5h3bokuu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003174603175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DGhpaCq6nEhU8jjM2JI1dE4P8AK/kt1Sdx2wQaiwSpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M="
+        }
+      ]
+    },
+    {
+      "Route": "controller/HomeController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M="
+        }
+      ]
+    },
+    {
+      "Route": "controller/HomeController.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-ch5h3bokuu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "314"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DGhpaCq6nEhU8jjM2JI1dE4P8AK/kt1Sdx2wQaiwSpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:57:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DGhpaCq6nEhU8jjM2JI1dE4P8AK/kt1Sdx2wQaiwSpI="
+        }
+      ]
+    },
+    {
+      "Route": "elm.e0yaavzu6v.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3bugnooc5a-e0yaavzu6v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002145922747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbuzrUxge43VWGvu1dcIzyfiDxi5dslgm8cNWQ+8ego=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e0yaavzu6v"
+        },
+        {
+          "Name": "label",
+          "Value": "elm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk="
+        }
+      ]
+    },
+    {
+      "Route": "elm.e0yaavzu6v.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e0yaavzu6v"
+        },
+        {
+          "Name": "label",
+          "Value": "elm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk="
+        }
+      ]
+    },
+    {
+      "Route": "elm.e0yaavzu6v.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3bugnooc5a-e0yaavzu6v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbuzrUxge43VWGvu1dcIzyfiDxi5dslgm8cNWQ+8ego=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e0yaavzu6v"
+        },
+        {
+          "Name": "label",
+          "Value": "elm.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbuzrUxge43VWGvu1dcIzyfiDxi5dslgm8cNWQ+8ego="
+        }
+      ]
+    },
+    {
+      "Route": "elm.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3bugnooc5a-e0yaavzu6v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002145922747"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbuzrUxge43VWGvu1dcIzyfiDxi5dslgm8cNWQ+8ego=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk="
+        }
+      ]
+    },
+    {
+      "Route": "elm.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rqCe9qogfQUeUcU+zD0y1o6jW8fVTB87S5eNJdbB2Mk="
+        }
+      ]
+    },
+    {
+      "Route": "elm.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3bugnooc5a-e0yaavzu6v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LbuzrUxge43VWGvu1dcIzyfiDxi5dslgm8cNWQ+8ego=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 12:49:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LbuzrUxge43VWGvu1dcIzyfiDxi5dslgm8cNWQ+8ego="
+        }
+      ]
+    },
+    {
+      "Route": "index.7ma4gaiwif.html",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/onawciptyk-7ma4gaiwif.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001808318264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"78WawMoS8kRbCt+PHiNQsQ46MUJbU1WtvB/t+dfA3Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ma4gaiwif"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90="
+        }
+      ]
+    },
+    {
+      "Route": "index.7ma4gaiwif.html",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ma4gaiwif"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90="
+        }
+      ]
+    },
+    {
+      "Route": "index.7ma4gaiwif.html.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/onawciptyk-7ma4gaiwif.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"78WawMoS8kRbCt+PHiNQsQ46MUJbU1WtvB/t+dfA3Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7ma4gaiwif"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-78WawMoS8kRbCt+PHiNQsQ46MUJbU1WtvB/t+dfA3Wc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/onawciptyk-7ma4gaiwif.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001808318264"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"78WawMoS8kRbCt+PHiNQsQ46MUJbU1WtvB/t+dfA3Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/onawciptyk-7ma4gaiwif.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"78WawMoS8kRbCt+PHiNQsQ46MUJbU1WtvB/t+dfA3Wc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 17:57:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-78WawMoS8kRbCt+PHiNQsQ46MUJbU1WtvB/t+dfA3Wc="
+        }
+      ]
+    },
+    {
+      "Route": "model/ComicbBookModelLike.pkeznlay28.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/ComicbBookModelLike.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d8A8rQz9iZCA3DVONDvsavYvN8UY6C3DE3CrlRCEmzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:57:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pkeznlay28"
+        },
+        {
+          "Name": "label",
+          "Value": "model/ComicbBookModelLike.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d8A8rQz9iZCA3DVONDvsavYvN8UY6C3DE3CrlRCEmzc="
+        }
+      ]
+    },
+    {
+      "Route": "model/ComicbBookModelLike.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/ComicbBookModelLike.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d8A8rQz9iZCA3DVONDvsavYvN8UY6C3DE3CrlRCEmzc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 18:57:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d8A8rQz9iZCA3DVONDvsavYvN8UY6C3DE3CrlRCEmzc="
+        }
+      ]
+    },
+    {
+      "Route": "model/DirectoryInfoLike.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/DirectoryInfoLike.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nkEFfJmljAOgEfD3tYGGDVlrWmXJhQ+rI8WpOj3GOUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 02:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nkEFfJmljAOgEfD3tYGGDVlrWmXJhQ+rI8WpOj3GOUs="
+        }
+      ]
+    },
+    {
+      "Route": "model/DirectoryInfoLike.u9gclrqzeg.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/DirectoryInfoLike.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "272"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nkEFfJmljAOgEfD3tYGGDVlrWmXJhQ+rI8WpOj3GOUs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 02:42:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9gclrqzeg"
+        },
+        {
+          "Name": "label",
+          "Value": "model/DirectoryInfoLike.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nkEFfJmljAOgEfD3tYGGDVlrWmXJhQ+rI8WpOj3GOUs="
+        }
+      ]
+    },
+    {
+      "Route": "model/HomeModelLike.1yllgr8gi7.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/HomeModelLike.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:04:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yllgr8gi7"
+        },
+        {
+          "Name": "label",
+          "Value": "model/HomeModelLike.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc="
+        }
+      ]
+    },
+    {
+      "Route": "model/HomeModelLike.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/HomeModelLike.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:04:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc="
+        }
+      ]
+    },
+    {
+      "Route": "router.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/qinizpneyw-wpn191pi8j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001773049645"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"56OS9dBQkjePDxINqLf35nX8/rSBgpx4yK0C+QUvqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY="
+        }
+      ]
+    },
+    {
+      "Route": "router.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY="
+        }
+      ]
+    },
+    {
+      "Route": "router.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/qinizpneyw-wpn191pi8j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"56OS9dBQkjePDxINqLf35nX8/rSBgpx4yK0C+QUvqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-56OS9dBQkjePDxINqLf35nX8/rSBgpx4yK0C+QUvqAQ="
+        }
+      ]
+    },
+    {
+      "Route": "router.wpn191pi8j.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/qinizpneyw-wpn191pi8j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001773049645"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"56OS9dBQkjePDxINqLf35nX8/rSBgpx4yK0C+QUvqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpn191pi8j"
+        },
+        {
+          "Name": "label",
+          "Value": "router.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY="
+        }
+      ]
+    },
+    {
+      "Route": "router.wpn191pi8j.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpn191pi8j"
+        },
+        {
+          "Name": "label",
+          "Value": "router.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY="
+        }
+      ]
+    },
+    {
+      "Route": "router.wpn191pi8j.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/qinizpneyw-wpn191pi8j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"56OS9dBQkjePDxINqLf35nX8/rSBgpx4yK0C+QUvqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 20:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wpn191pi8j"
+        },
+        {
+          "Name": "label",
+          "Value": "router.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-56OS9dBQkjePDxINqLf35nX8/rSBgpx4yK0C+QUvqAQ="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.7073yyq904.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-7073yyq904.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005291005291"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXOXilXLJrxxCueitYo/mcd9vpYOu84TQgvQwHY9LYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7073yyq904"
+        },
+        {
+          "Name": "label",
+          "Value": "views/ComicBookView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.7073yyq904.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7073yyq904"
+        },
+        {
+          "Name": "label",
+          "Value": "views/ComicBookView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.7073yyq904.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-7073yyq904.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXOXilXLJrxxCueitYo/mcd9vpYOu84TQgvQwHY9LYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7073yyq904"
+        },
+        {
+          "Name": "label",
+          "Value": "views/ComicBookView.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXOXilXLJrxxCueitYo/mcd9vpYOu84TQgvQwHY9LYw="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-7073yyq904.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005291005291"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXOXilXLJrxxCueitYo/mcd9vpYOu84TQgvQwHY9LYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-7073yyq904.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dXOXilXLJrxxCueitYo/mcd9vpYOu84TQgvQwHY9LYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:43:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dXOXilXLJrxxCueitYo/mcd9vpYOu84TQgvQwHY9LYw="
+        }
+      ]
+    },
+    {
+      "Route": "views/FileView.6xkrmjn019.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y617lj9s34-6xkrmjn019.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002386634845"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6xkrmjn019"
+        },
+        {
+          "Name": "label",
+          "Value": "views/FileView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs="
+        }
+      ]
+    },
+    {
+      "Route": "views/FileView.6xkrmjn019.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6xkrmjn019"
+        },
+        {
+          "Name": "label",
+          "Value": "views/FileView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs="
+        }
+      ]
+    },
+    {
+      "Route": "views/FileView.6xkrmjn019.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y617lj9s34-6xkrmjn019.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6xkrmjn019"
+        },
+        {
+          "Name": "label",
+          "Value": "views/FileView.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8="
+        }
+      ]
+    },
+    {
+      "Route": "views/FileView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y617lj9s34-6xkrmjn019.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002386634845"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs="
+        }
+      ]
+    },
+    {
+      "Route": "views/FileView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vuu+wq4NzNLVZSwejCZtDiuf5r0v6LWTZwfLLVjLKNs="
+        }
+      ]
+    },
+    {
+      "Route": "views/FileView.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y617lj9s34-6xkrmjn019.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 03:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8="
+        }
+      ]
+    },
+    {
+      "Route": "views/HomeView.g26i7kla2x.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004347826087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g26i7kla2x"
+        },
+        {
+          "Name": "label",
+          "Value": "views/HomeView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
+        }
+      ]
+    },
+    {
+      "Route": "views/HomeView.g26i7kla2x.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g26i7kla2x"
+        },
+        {
+          "Name": "label",
+          "Value": "views/HomeView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
+        }
+      ]
+    },
+    {
+      "Route": "views/HomeView.g26i7kla2x.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g26i7kla2x"
+        },
+        {
+          "Name": "label",
+          "Value": "views/HomeView.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc="
+        }
+      ]
+    },
+    {
+      "Route": "views/HomeView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004347826087"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
+        }
+      ]
+    },
+    {
+      "Route": "views/HomeView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
+        }
+      ]
+    },
+    {
+      "Route": "views/HomeView.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc="
+        }
+      ]
+    },
+    {
+      "Route": "views/ViewFunc.d.2d2tepmio6.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ViewFunc.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypxOzoSLb9O625ALiLGl4CLhsgMmIhqCfkSTdqlzj3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:46:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d2tepmio6"
+        },
+        {
+          "Name": "label",
+          "Value": "views/ViewFunc.d.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypxOzoSLb9O625ALiLGl4CLhsgMmIhqCfkSTdqlzj3w="
+        }
+      ]
+    },
+    {
+      "Route": "views/ViewFunc.d.ts",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ViewFunc.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ypxOzoSLb9O625ALiLGl4CLhsgMmIhqCfkSTdqlzj3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 25 Jan 2025 23:46:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ypxOzoSLb9O625ALiLGl4CLhsgMmIhqCfkSTdqlzj3w="
+        }
+      ]
+    }
+  ]
+}

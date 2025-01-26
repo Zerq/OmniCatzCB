@@ -1,0 +1,313 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OmniCatzCB/1.0.0": {
+        "dependencies": {
+          "WebWindowNetCore.Linux": "6.2.0"
+        },
+        "runtime": {
+          "OmniCatzCB.dll": {}
+        }
+      },
+      "AspNetExtensions/7.3.1": {
+        "dependencies": {
+          "CsTools": "7.18.0",
+          "System.Reactive": "6.0.0",
+          "Giraffe": "6.2.0"
+        },
+        "runtime": {
+          "lib/net8.0/AspNetExtensions.dll": {
+            "assemblyVersion": "7.3.1.0",
+            "fileVersion": "7.3.1.0"
+          }
+        }
+      },
+      "CsTools/7.18.0": {
+        "dependencies": {
+          "System.Linq.Async": "6.0.1"
+        },
+        "runtime": {
+          "lib/net8.0/CsTools.dll": {
+            "assemblyVersion": "7.18.0.0",
+            "fileVersion": "7.18.0.0"
+          }
+        }
+      },
+      "FSharp.Core/6.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/FSharp.Core.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.45703"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.1/cs/FSharp.Core.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.1/de/FSharp.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.1/es/FSharp.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.1/fr/FSharp.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.1/it/FSharp.Core.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.1/ja/FSharp.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.1/ko/FSharp.Core.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.1/pl/FSharp.Core.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.1/ru/FSharp.Core.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.1/tr/FSharp.Core.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Giraffe/6.2.0": {
+        "dependencies": {
+          "FSharp.Core": "6.0.0",
+          "Giraffe.ViewEngine": "1.4.0",
+          "Microsoft.IO.RecyclableMemoryStream": "2.2.1",
+          "Newtonsoft.Json": "13.0.3",
+          "System.Text.Json": "7.0.3"
+        },
+        "runtime": {
+          "lib/net7.0/Giraffe.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Giraffe.ViewEngine/1.4.0": {
+        "dependencies": {
+          "FSharp.Core": "6.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/Giraffe.ViewEngine.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Gtk4DotNet/6.1.0": {
+        "dependencies": {
+          "CsTools": "7.18.0"
+        },
+        "runtime": {
+          "lib/net8.0/Gtk4DotNet.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.IO.RecyclableMemoryStream/2.2.1": {
+        "runtime": {
+          "lib/net5.0/Microsoft.IO.RecyclableMemoryStream.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "System.Linq.Async/6.0.1": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Linq.Async.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1.35981"
+          }
+        }
+      },
+      "System.Reactive/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Reactive.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.1"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/7.0.0": {},
+      "System.Text.Json/7.0.3": {
+        "dependencies": {
+          "System.Text.Encodings.Web": "7.0.0"
+        }
+      },
+      "WebWindowNetCore/9.6.7": {
+        "dependencies": {
+          "AspNetExtensions": "7.3.1"
+        },
+        "runtime": {
+          "lib/net8.0/WebWindowNetCore.dll": {
+            "assemblyVersion": "9.6.7.0",
+            "fileVersion": "9.6.7.0"
+          }
+        }
+      },
+      "WebWindowNetCore.Linux/6.2.0": {
+        "dependencies": {
+          "Gtk4DotNet": "6.1.0",
+          "WebWindowNetCore": "9.6.7"
+        },
+        "runtime": {
+          "lib/net8.0/WebWindowNetCore.Linux.dll": {
+            "assemblyVersion": "6.2.0.0",
+            "fileVersion": "6.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OmniCatzCB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNetExtensions/7.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8U+xFvAPTM4jtX3duCSTuYXl9PrZ5z8CdqRA6PnQESz2n0j9Ye8e1ZCjdUmLpv9T7tkraRvMWFEMvqGYJhDljQ==",
+      "path": "aspnetextensions/7.3.1",
+      "hashPath": "aspnetextensions.7.3.1.nupkg.sha512"
+    },
+    "CsTools/7.18.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VlEcQ3nfZf/V8m7t7hLvpT4n5MZlKEtBvl1h5ubAK5SeDf3NyWZltG6RR+TwdJ4h92yiCEc1pJhKxCyFOE0IPQ==",
+      "path": "cstools/7.18.0",
+      "hashPath": "cstools.7.18.0.nupkg.sha512"
+    },
+    "FSharp.Core/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fbv1UwJ2LXVcFCt+GGDPu0sIYA5C6gdDvAupDj3iLQF3clRkua/6J33f+FiGQa8P1tEa+zmz3wrjoTnXZ1UiYg==",
+      "path": "fsharp.core/6.0.0",
+      "hashPath": "fsharp.core.6.0.0.nupkg.sha512"
+    },
+    "Giraffe/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+lq072cO04MvCRclGnoGvNbsIOEdVVLwEeu8ddky9XV4vk0X0FeljUTDjVux0G6pmlzEz31d2qv9s6uapVFvsQ==",
+      "path": "giraffe/6.2.0",
+      "hashPath": "giraffe.6.2.0.nupkg.sha512"
+    },
+    "Giraffe.ViewEngine/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gWzlp8KGDLaPHMm/xGzfLT1e9wZaJhBKhEuMsPRBSn7wAMkSgMcaqJlWl8mFGCcOOx0r9UyDJvCJJQyljYmo+g==",
+      "path": "giraffe.viewengine/1.4.0",
+      "hashPath": "giraffe.viewengine.1.4.0.nupkg.sha512"
+    },
+    "Gtk4DotNet/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pYWWSNpYtsw9AiQlBoVPiOqNIcJ9lpp4j0ps+tY+0uXZTEvlRbNOFtueaNDxWiDxYg2dJ5plEVolC2uH65z3yA==",
+      "path": "gtk4dotnet/6.1.0",
+      "hashPath": "gtk4dotnet.6.1.0.nupkg.sha512"
+    },
+    "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==",
+      "path": "microsoft.bcl.asyncinterfaces/6.0.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.IO.RecyclableMemoryStream/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T5ahjOqWFMTSb9wFHKFNAcGXm35BxbUbwARtAPLSSPPFehcLz5mwDsKO1RR9R2aZ2Lk1BNQC7Ja63onOBE6rpA==",
+      "path": "microsoft.io.recyclablememorystream/2.2.1",
+      "hashPath": "microsoft.io.recyclablememorystream.2.2.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "System.Linq.Async/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YhHcaroWpQ9UCot3Pizah7ryAzQhNvobLMSxeDIGmnXfkQn8u5owvpOH0K6EVB+z9L7u6Cc4W17Br/+jyttEQ==",
+      "path": "system.linq.async/6.0.1",
+      "hashPath": "system.linq.async.6.0.1.nupkg.sha512"
+    },
+    "System.Reactive/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-31kfaW4ZupZzPsI5PVe77VhnvFF55qgma7KZr/E0iFTs6fmdhhG8j0mgEx620iLTey1EynOkEfnyTjtNEpJzGw==",
+      "path": "system.reactive/6.0.0",
+      "hashPath": "system.reactive.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OP6umVGxc0Z0MvZQBVigj4/U31Pw72ITihDWP9WiWDm+q5aoe0GaJivsfYGq53o6dxH7DcXWiCTl7+0o2CGdmg==",
+      "path": "system.text.encodings.web/7.0.0",
+      "hashPath": "system.text.encodings.web.7.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/7.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AyjhwXN1zTFeIibHimfJn6eAsZ7rTBib79JQpzg8WAuR/HKDu9JGNHTuu3nbbXQ/bgI+U4z6HtZmCHNXB1QXrQ==",
+      "path": "system.text.json/7.0.3",
+      "hashPath": "system.text.json.7.0.3.nupkg.sha512"
+    },
+    "WebWindowNetCore/9.6.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5W3jUCuKxAPoE2VdoCEoq708S+LLPZ/NZaZ90jUQfiXn1kbwSfBJBkrBNneiqtfVpF80FCtsWEsmI1Jsi0IG4w==",
+      "path": "webwindownetcore/9.6.7",
+      "hashPath": "webwindownetcore.9.6.7.nupkg.sha512"
+    },
+    "WebWindowNetCore.Linux/6.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yH/YkH98wlomZeXtVp/Hr80Ro1z1aoMNn7nT7+JaP///dKHz5x8UPQ3ozfJqig8X8JnZI2G7fGkPeoqQbD2ngA==",
+      "path": "webwindownetcore.linux/6.2.0",
+      "hashPath": "webwindownetcore.linux.6.2.0.nupkg.sha512"
+    }
+  }
+}
