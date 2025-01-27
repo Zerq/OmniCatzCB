@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tnoXkmNHqw2HtUa3rI0Lsrcb5uTaQtIr+7+1GF09TNQ=",
+  "Hash": "+1OYgjUmFQEhljQPiQFjdZPOwh7ZqG98tkD0he+mTJc=",
   "Source": "OmniCatzCB",
   "BasePath": "_content/OmniCatzCB",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3b76967nyp-l21kov1l1y.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/AboutView#[.{fingerprint=l21kov1l1y}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/AboutView.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lkiz8yd73v",
+      "Integrity": "xag252hmvgZSiCZBVc7UweIwapW/ajP3DCMeU/MGC74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/AboutView.js"
+    },
     {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3bugnooc5a-e0yaavzu6v.gz",
       "SourceId": "OmniCatzCB",
@@ -59,12 +80,12 @@
       "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js"
     },
     {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-23jd5lyxdc.gz",
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-vilt25caai.gz",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
       "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "controller/ComicBookController#[.{fingerprint=23jd5lyxdc}]?.js.gz",
+      "RelativePath": "controller/ComicBookController#[.{fingerprint=vilt25caai}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -73,8 +94,8 @@
       "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7rqv54y1xc",
-      "Integrity": "M64gZbf+1MZHwhKwaq4c7pirZEEphIKVBqgYsJQ2D/A=",
+      "Fingerprint": "tl6cbd9cn2",
+      "Integrity": "j4TRzSHyzgCzThLUcY8228If2JGLscZqivbNCoBNM28=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js"
@@ -164,12 +185,12 @@
       "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/drive-harddisk.svg"
     },
     {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-og6granq5g.gz",
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-65w1p8312w.gz",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
       "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "views/ComicBookView#[.{fingerprint=og6granq5g}]?.js.gz",
+      "RelativePath": "views/ComicBookView#[.{fingerprint=65w1p8312w}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -178,8 +199,8 @@
       "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e3wp67equt",
-      "Integrity": "Ru+BcSdQemroEz+JCM5bMEAaf07jn131GNFunI4RijM=",
+      "Fingerprint": "2vk78mg6g9",
+      "Integrity": "XgXnXWaD9hZr9529Adm/Dkhsel1yeJkN32jZRNzGq1s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js"
@@ -206,48 +227,6 @@
       "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js"
     },
     {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
-      "SourceId": "OmniCatzCB",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "views/HomeView#[.{fingerprint=g26i7kla2x}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "6s99z56clr",
-      "Integrity": "xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js"
-    },
-    {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-89lv9mdvl4.gz",
-      "SourceId": "OmniCatzCB",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
-      "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "controller/HomeController#[.{fingerprint=89lv9mdvl4}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "tgd9c4ygig",
-      "Integrity": "bejqjvTy2HRRufB1gdkxV/SBFlSRPjEeSTvAid1fpAc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js"
-    },
-    {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y617lj9s34-6xkrmjn019.gz",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
@@ -269,12 +248,12 @@
       "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js"
     },
     {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-d1gxec974w.gz",
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-7hzmdpyvc4.gz",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
       "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "app#[.{fingerprint=d1gxec974w}]?.js.gz",
+      "RelativePath": "app#[.{fingerprint=7hzmdpyvc4}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -283,11 +262,32 @@
       "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "axw0dgqktg",
-      "Integrity": "UkxGON69i/PtY3lXYbXykFelcHPC+d8oDXuUYdvika8=",
+      "Fingerprint": "1diyw8984l",
+      "Integrity": "dWEDNqh4vRw+CS0OaQTwjCn7g56G+DEhDG1GxuhfcKo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js"
+    },
+    {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zon17razs4-qe4mrec29o.gz",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/AboutController#[.{fingerprint=qe4mrec29o}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/AboutController.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ystjlqejcp",
+      "Integrity": "XmXxqGCGYuufj1fz/hVQX2Ue7SvamrBrZnzrl3uIo5s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/AboutController.js"
     },
     {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zr75c04nby-eekwpmw0o4.gz",
@@ -325,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "d1gxec974w",
-      "Integrity": "cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM=",
+      "Fingerprint": "7hzmdpyvc4",
+      "Integrity": "G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.js"
@@ -416,6 +416,27 @@
       "OriginalItemSpec": "wwwroot/assets/folder.svg"
     },
     {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/AboutController.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "controller/AboutController#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qe4mrec29o",
+      "Integrity": "Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/controller/AboutController.js"
+    },
+    {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
@@ -430,8 +451,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "23jd5lyxdc",
-      "Integrity": "3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk=",
+      "Fingerprint": "vilt25caai",
+      "Integrity": "N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/controller/ComicBookController.js"
@@ -456,27 +477,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/controller/FileController.js"
-    },
-    {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
-      "SourceId": "OmniCatzCB",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
-      "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "controller/HomeController#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "89lv9mdvl4",
-      "Integrity": "pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/controller/HomeController.js"
     },
     {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js",
@@ -563,27 +563,6 @@
       "OriginalItemSpec": "wwwroot/model/DirectoryInfoLike.ts"
     },
     {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/HomeModelLike.ts",
-      "SourceId": "OmniCatzCB",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
-      "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "model/HomeModelLike#[.{fingerprint}]?.ts",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "1yllgr8gi7",
-      "Integrity": "p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/model/HomeModelLike.ts"
-    },
-    {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
@@ -605,6 +584,27 @@
       "OriginalItemSpec": "wwwroot/router.js"
     },
     {
+      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/AboutView.js",
+      "SourceId": "OmniCatzCB",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
+      "BasePath": "_content/OmniCatzCB",
+      "RelativePath": "views/AboutView#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l21kov1l1y",
+      "Integrity": "bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/views/AboutView.js"
+    },
+    {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
@@ -619,8 +619,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "og6granq5g",
-      "Integrity": "SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk=",
+      "Fingerprint": "65w1p8312w",
+      "Integrity": "+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/views/ComicBookView.js"
@@ -647,27 +647,6 @@
       "OriginalItemSpec": "wwwroot/views/FileView.js"
     },
     {
-      "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
-      "SourceId": "OmniCatzCB",
-      "SourceType": "Discovered",
-      "ContentRoot": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/",
-      "BasePath": "_content/OmniCatzCB",
-      "RelativePath": "views/HomeView#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "g26i7kla2x",
-      "Integrity": "yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/views/HomeView.js"
-    },
-    {
       "Identity": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ViewFunc.d.ts",
       "SourceId": "OmniCatzCB",
       "SourceType": "Discovered",
@@ -691,13 +670,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "app.d1gxec974w.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-d1gxec974w.gz",
+      "Route": "app.7hzmdpyvc4.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-7hzmdpyvc4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002053388090"
+          "Quality": "0.002590673575"
         }
       ],
       "ResponseHeaders": [
@@ -707,15 +686,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "385"
         },
         {
           "Name": "ETag",
-          "Value": "\"UkxGON69i/PtY3lXYbXykFelcHPC+d8oDXuUYdvika8=\""
+          "Value": "\"dWEDNqh4vRw+CS0OaQTwjCn7g56G+DEhDG1GxuhfcKo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:55:47 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -735,13 +714,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM=\""
+          "Value": "W/\"G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d1gxec974w"
+          "Value": "7hzmdpyvc4"
         },
         {
           "Name": "label",
@@ -749,12 +728,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM="
+          "Value": "sha256-G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4="
         }
       ]
     },
     {
-      "Route": "app.d1gxec974w.js",
+      "Route": "app.7hzmdpyvc4.js",
       "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -764,7 +743,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1288"
+          "Value": "1079"
         },
         {
           "Name": "Content-Type",
@@ -772,11 +751,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM=\""
+          "Value": "\"G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:55:47 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -786,7 +765,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d1gxec974w"
+          "Value": "7hzmdpyvc4"
         },
         {
           "Name": "label",
@@ -794,13 +773,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM="
+          "Value": "sha256-G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4="
         }
       ]
     },
     {
-      "Route": "app.d1gxec974w.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-d1gxec974w.gz",
+      "Route": "app.7hzmdpyvc4.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-7hzmdpyvc4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -809,7 +788,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "385"
         },
         {
           "Name": "Content-Type",
@@ -817,11 +796,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UkxGON69i/PtY3lXYbXykFelcHPC+d8oDXuUYdvika8=\""
+          "Value": "\"dWEDNqh4vRw+CS0OaQTwjCn7g56G+DEhDG1GxuhfcKo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:55:47 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -839,7 +818,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "d1gxec974w"
+          "Value": "7hzmdpyvc4"
         },
         {
           "Name": "label",
@@ -847,18 +826,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UkxGON69i/PtY3lXYbXykFelcHPC+d8oDXuUYdvika8="
+          "Value": "sha256-dWEDNqh4vRw+CS0OaQTwjCn7g56G+DEhDG1GxuhfcKo="
         }
       ]
     },
     {
       "Route": "app.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-d1gxec974w.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-7hzmdpyvc4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002053388090"
+          "Quality": "0.002590673575"
         }
       ],
       "ResponseHeaders": [
@@ -868,15 +847,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "385"
         },
         {
           "Name": "ETag",
-          "Value": "\"UkxGON69i/PtY3lXYbXykFelcHPC+d8oDXuUYdvika8=\""
+          "Value": "\"dWEDNqh4vRw+CS0OaQTwjCn7g56G+DEhDG1GxuhfcKo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:55:47 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -896,13 +875,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM=\""
+          "Value": "W/\"G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM="
+          "Value": "sha256-G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4="
         }
       ]
     },
@@ -917,7 +896,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1288"
+          "Value": "1079"
         },
         {
           "Name": "Content-Type",
@@ -925,11 +904,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM=\""
+          "Value": "\"G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:55:47 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -939,13 +918,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM="
+          "Value": "sha256-G24NqUdmTVMYcozMioG7l2XHC20IboKlCmpXDWaKuq4="
         }
       ]
     },
     {
       "Route": "app.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-d1gxec974w.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/y6jhm4ozpm-7hzmdpyvc4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -954,7 +933,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "486"
+          "Value": "385"
         },
         {
           "Name": "Content-Type",
@@ -962,11 +941,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UkxGON69i/PtY3lXYbXykFelcHPC+d8oDXuUYdvika8=\""
+          "Value": "\"dWEDNqh4vRw+CS0OaQTwjCn7g56G+DEhDG1GxuhfcKo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:55:47 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -984,7 +963,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UkxGON69i/PtY3lXYbXykFelcHPC+d8oDXuUYdvika8="
+          "Value": "sha256-dWEDNqh4vRw+CS0OaQTwjCn7g56G+DEhDG1GxuhfcKo="
         }
       ]
     },
@@ -2181,13 +2160,13 @@
       ]
     },
     {
-      "Route": "controller/ComicBookController.23jd5lyxdc.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-23jd5lyxdc.gz",
+      "Route": "controller/AboutController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zon17razs4-qe4mrec29o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001531393568"
+          "Quality": "0.003984063745"
         }
       ],
       "ResponseHeaders": [
@@ -2197,15 +2176,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "652"
+          "Value": "250"
         },
         {
           "Name": "ETag",
-          "Value": "\"M64gZbf+1MZHwhKwaq4c7pirZEEphIKVBqgYsJQ2D/A=\""
+          "Value": "\"XmXxqGCGYuufj1fz/hVQX2Ue7SvamrBrZnzrl3uIo5s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
+          "Value": "Mon, 27 Jan 2025 08:58:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY="
+        }
+      ]
+    },
+    {
+      "Route": "controller/AboutController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/AboutController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:58:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY="
+        }
+      ]
+    },
+    {
+      "Route": "controller/AboutController.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zon17razs4-qe4mrec29o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmXxqGCGYuufj1fz/hVQX2Ue7SvamrBrZnzrl3uIo5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:58:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmXxqGCGYuufj1fz/hVQX2Ue7SvamrBrZnzrl3uIo5s="
+        }
+      ]
+    },
+    {
+      "Route": "controller/AboutController.qe4mrec29o.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zon17razs4-qe4mrec29o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003984063745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmXxqGCGYuufj1fz/hVQX2Ue7SvamrBrZnzrl3uIo5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:58:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2225,26 +2341,179 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk=\""
+          "Value": "W/\"Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "23jd5lyxdc"
+          "Value": "qe4mrec29o"
         },
         {
           "Name": "label",
-          "Value": "controller/ComicBookController.js"
+          "Value": "controller/AboutController.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk="
+          "Value": "sha256-Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY="
         }
       ]
     },
     {
-      "Route": "controller/ComicBookController.23jd5lyxdc.js",
+      "Route": "controller/AboutController.qe4mrec29o.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/AboutController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:58:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qe4mrec29o"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/AboutController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lg3tDqhZf+Gp2qpqLgsdCoPXLMx0enCACXsyyrMmWpY="
+        }
+      ]
+    },
+    {
+      "Route": "controller/AboutController.qe4mrec29o.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/zon17razs4-qe4mrec29o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XmXxqGCGYuufj1fz/hVQX2Ue7SvamrBrZnzrl3uIo5s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:58:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qe4mrec29o"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/AboutController.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XmXxqGCGYuufj1fz/hVQX2Ue7SvamrBrZnzrl3uIo5s="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-vilt25caai.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001508295626"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j4TRzSHyzgCzThLUcY8228If2JGLscZqivbNCoBNM28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 01:24:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.js",
       "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2254,7 +2523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1914"
+          "Value": "1991"
         },
         {
           "Name": "Content-Type",
@@ -2262,11 +2531,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk=\""
+          "Value": "\"N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
+          "Value": "Mon, 27 Jan 2025 01:24:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-vilt25caai.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j4TRzSHyzgCzThLUcY8228If2JGLscZqivbNCoBNM28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 01:24:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j4TRzSHyzgCzThLUcY8228If2JGLscZqivbNCoBNM28="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.vilt25caai.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-vilt25caai.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001508295626"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "662"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j4TRzSHyzgCzThLUcY8228If2JGLscZqivbNCoBNM28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 01:24:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vilt25caai"
+        },
+        {
+          "Name": "label",
+          "Value": "controller/ComicBookController.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4="
+        }
+      ]
+    },
+    {
+      "Route": "controller/ComicBookController.vilt25caai.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 01:24:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2276,7 +2690,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "23jd5lyxdc"
+          "Value": "vilt25caai"
         },
         {
           "Name": "label",
@@ -2284,13 +2698,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk="
+          "Value": "sha256-N8gykchQLH1oQgwuA/lniPi2t9txT3mGZSIPud6k7Y4="
         }
       ]
     },
     {
-      "Route": "controller/ComicBookController.23jd5lyxdc.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-23jd5lyxdc.gz",
+      "Route": "controller/ComicBookController.vilt25caai.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-vilt25caai.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2299,7 +2713,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "652"
+          "Value": "662"
         },
         {
           "Name": "Content-Type",
@@ -2307,11 +2721,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M64gZbf+1MZHwhKwaq4c7pirZEEphIKVBqgYsJQ2D/A=\""
+          "Value": "\"j4TRzSHyzgCzThLUcY8228If2JGLscZqivbNCoBNM28=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
+          "Value": "Mon, 27 Jan 2025 01:24:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2329,7 +2743,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "23jd5lyxdc"
+          "Value": "vilt25caai"
         },
         {
           "Name": "label",
@@ -2337,144 +2751,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M64gZbf+1MZHwhKwaq4c7pirZEEphIKVBqgYsJQ2D/A="
-        }
-      ]
-    },
-    {
-      "Route": "controller/ComicBookController.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-23jd5lyxdc.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001531393568"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "652"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M64gZbf+1MZHwhKwaq4c7pirZEEphIKVBqgYsJQ2D/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk="
-        }
-      ]
-    },
-    {
-      "Route": "controller/ComicBookController.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1914"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk="
-        }
-      ]
-    },
-    {
-      "Route": "controller/ComicBookController.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/9khartu0fe-23jd5lyxdc.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "652"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M64gZbf+1MZHwhKwaq4c7pirZEEphIKVBqgYsJQ2D/A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-M64gZbf+1MZHwhKwaq4c7pirZEEphIKVBqgYsJQ2D/A="
+          "Value": "sha256-j4TRzSHyzgCzThLUcY8228If2JGLscZqivbNCoBNM28="
         }
       ]
     },
@@ -2773,304 +3050,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-BtyDGcWqCmCxSrw3AFI7YwGUnYkI86rQOLHt9EPVNDc="
-        }
-      ]
-    },
-    {
-      "Route": "controller/HomeController.89lv9mdvl4.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-89lv9mdvl4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003333333333"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bejqjvTy2HRRufB1gdkxV/SBFlSRPjEeSTvAid1fpAc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:44:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "89lv9mdvl4"
-        },
-        {
-          "Name": "label",
-          "Value": "controller/HomeController.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk="
-        }
-      ]
-    },
-    {
-      "Route": "controller/HomeController.89lv9mdvl4.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "686"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:44:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "89lv9mdvl4"
-        },
-        {
-          "Name": "label",
-          "Value": "controller/HomeController.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk="
-        }
-      ]
-    },
-    {
-      "Route": "controller/HomeController.89lv9mdvl4.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-89lv9mdvl4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bejqjvTy2HRRufB1gdkxV/SBFlSRPjEeSTvAid1fpAc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:44:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "89lv9mdvl4"
-        },
-        {
-          "Name": "label",
-          "Value": "controller/HomeController.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bejqjvTy2HRRufB1gdkxV/SBFlSRPjEeSTvAid1fpAc="
-        }
-      ]
-    },
-    {
-      "Route": "controller/HomeController.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-89lv9mdvl4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003333333333"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bejqjvTy2HRRufB1gdkxV/SBFlSRPjEeSTvAid1fpAc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:44:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk="
-        }
-      ]
-    },
-    {
-      "Route": "controller/HomeController.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "686"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:44:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk="
-        }
-      ]
-    },
-    {
-      "Route": "controller/HomeController.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/xc35h68wrs-89lv9mdvl4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "299"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bejqjvTy2HRRufB1gdkxV/SBFlSRPjEeSTvAid1fpAc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:44:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bejqjvTy2HRRufB1gdkxV/SBFlSRPjEeSTvAid1fpAc="
         }
       ]
     },
@@ -3835,88 +3814,6 @@
       ]
     },
     {
-      "Route": "model/HomeModelLike.1yllgr8gi7.ts",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/HomeModelLike.ts",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/vnd.dlna.mpeg-tts"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:04:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1yllgr8gi7"
-        },
-        {
-          "Name": "label",
-          "Value": "model/HomeModelLike.ts"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc="
-        }
-      ]
-    },
-    {
-      "Route": "model/HomeModelLike.ts",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/HomeModelLike.ts",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "35"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/vnd.dlna.mpeg-tts"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:04:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-p8Fc15mUnruX6rbKOvaiqt0OF/O79VqEfnXTVw2RLZc="
-        }
-      ]
-    },
-    {
       "Route": "router.h2pgjigtaf.js",
       "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/qinizpneyw-h2pgjigtaf.gz",
       "Selectors": [
@@ -3941,7 +3838,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:32:17 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4002,7 +3899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:32:17 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4047,7 +3944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:32:17 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4102,7 +3999,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:32:17 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4155,7 +4052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:32:17 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4192,7 +4089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 20:32:17 GMT"
+          "Value": "Mon, 27 Jan 2025 09:07:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4215,8 +4112,306 @@
       ]
     },
     {
-      "Route": "views/ComicBookView.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-og6granq5g.gz",
+      "Route": "views/AboutView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3b76967nyp-l21kov1l1y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002369668246"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "421"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xag252hmvgZSiCZBVc7UweIwapW/ajP3DCMeU/MGC74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4="
+        }
+      ]
+    },
+    {
+      "Route": "views/AboutView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/AboutView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4="
+        }
+      ]
+    },
+    {
+      "Route": "views/AboutView.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3b76967nyp-l21kov1l1y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xag252hmvgZSiCZBVc7UweIwapW/ajP3DCMeU/MGC74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xag252hmvgZSiCZBVc7UweIwapW/ajP3DCMeU/MGC74="
+        }
+      ]
+    },
+    {
+      "Route": "views/AboutView.l21kov1l1y.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3b76967nyp-l21kov1l1y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002369668246"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "421"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xag252hmvgZSiCZBVc7UweIwapW/ajP3DCMeU/MGC74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l21kov1l1y"
+        },
+        {
+          "Name": "label",
+          "Value": "views/AboutView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4="
+        }
+      ]
+    },
+    {
+      "Route": "views/AboutView.l21kov1l1y.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/AboutView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l21kov1l1y"
+        },
+        {
+          "Name": "label",
+          "Value": "views/AboutView.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bYbi6dPd5Vs9EubS27UIGIjAZIDRI85nKrmu2VJ5vo4="
+        }
+      ]
+    },
+    {
+      "Route": "views/AboutView.l21kov1l1y.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/3b76967nyp-l21kov1l1y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "421"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xag252hmvgZSiCZBVc7UweIwapW/ajP3DCMeU/MGC74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 08:59:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l21kov1l1y"
+        },
+        {
+          "Name": "label",
+          "Value": "views/AboutView.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xag252hmvgZSiCZBVc7UweIwapW/ajP3DCMeU/MGC74="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.65w1p8312w.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-65w1p8312w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4235,15 +4430,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ru+BcSdQemroEz+JCM5bMEAaf07jn131GNFunI4RijM=\""
+          "Value": "\"XgXnXWaD9hZr9529Adm/Dkhsel1yeJkN32jZRNzGq1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
+          "Value": "Mon, 27 Jan 2025 01:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4259,18 +4454,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk=\""
+          "Value": "W/\"+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "65w1p8312w"
+        },
+        {
+          "Name": "label",
+          "Value": "views/ComicBookView.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk="
+          "Value": "sha256-+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk="
         }
       ]
     },
     {
-      "Route": "views/ComicBookView.js",
+      "Route": "views/ComicBookView.65w1p8312w.js",
       "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4288,121 +4491,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk=\""
+          "Value": "\"+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk="
-        }
-      ]
-    },
-    {
-      "Route": "views/ComicBookView.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-og6granq5g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "459"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ru+BcSdQemroEz+JCM5bMEAaf07jn131GNFunI4RijM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Ru+BcSdQemroEz+JCM5bMEAaf07jn131GNFunI4RijM="
-        }
-      ]
-    },
-    {
-      "Route": "views/ComicBookView.og6granq5g.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-og6granq5g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002173913043"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "459"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Ru+BcSdQemroEz+JCM5bMEAaf07jn131GNFunI4RijM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
+          "Value": "Mon, 27 Jan 2025 01:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "og6granq5g"
+          "Value": "65w1p8312w"
         },
         {
           "Name": "label",
@@ -4410,58 +4513,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk="
+          "Value": "sha256-+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk="
         }
       ]
     },
     {
-      "Route": "views/ComicBookView.og6granq5g.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1077"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "og6granq5g"
-        },
-        {
-          "Name": "label",
-          "Value": "views/ComicBookView.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk="
-        }
-      ]
-    },
-    {
-      "Route": "views/ComicBookView.og6granq5g.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-og6granq5g.gz",
+      "Route": "views/ComicBookView.65w1p8312w.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-65w1p8312w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4478,11 +4536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ru+BcSdQemroEz+JCM5bMEAaf07jn131GNFunI4RijM=\""
+          "Value": "\"XgXnXWaD9hZr9529Adm/Dkhsel1yeJkN32jZRNzGq1s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 27 Jan 2025 01:07:49 GMT"
+          "Value": "Mon, 27 Jan 2025 01:19:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4500,7 +4558,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "og6granq5g"
+          "Value": "65w1p8312w"
         },
         {
           "Name": "label",
@@ -4508,7 +4566,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ru+BcSdQemroEz+JCM5bMEAaf07jn131GNFunI4RijM="
+          "Value": "sha256-XgXnXWaD9hZr9529Adm/Dkhsel1yeJkN32jZRNzGq1s="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-65w1p8312w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002173913043"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgXnXWaD9hZr9529Adm/Dkhsel1yeJkN32jZRNzGq1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 01:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.js",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 01:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+qHUqwFUgVsOBcteVunT8oxGz0hWKzh34EEjOqqA7Hk="
+        }
+      ]
+    },
+    {
+      "Route": "views/ComicBookView.js.gz",
+      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/pxhm6h6078-65w1p8312w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XgXnXWaD9hZr9529Adm/Dkhsel1yeJkN32jZRNzGq1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 01:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XgXnXWaD9hZr9529Adm/Dkhsel1yeJkN32jZRNzGq1s="
         }
       ]
     },
@@ -4807,304 +5002,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-TnuKdW6ThR5OAeTKWzviXTO6up1KgiwPD3KUU2LY6Z8="
-        }
-      ]
-    },
-    {
-      "Route": "views/HomeView.g26i7kla2x.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004347826087"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "229"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g26i7kla2x"
-        },
-        {
-          "Name": "label",
-          "Value": "views/HomeView.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
-        }
-      ]
-    },
-    {
-      "Route": "views/HomeView.g26i7kla2x.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "397"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g26i7kla2x"
-        },
-        {
-          "Name": "label",
-          "Value": "views/HomeView.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
-        }
-      ]
-    },
-    {
-      "Route": "views/HomeView.g26i7kla2x.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "229"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "g26i7kla2x"
-        },
-        {
-          "Name": "label",
-          "Value": "views/HomeView.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc="
-        }
-      ]
-    },
-    {
-      "Route": "views/HomeView.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004347826087"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "229"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
-        }
-      ]
-    },
-    {
-      "Route": "views/HomeView.js",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "397"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yAnKx3DLAG3H3fJc18CS/WDUVb+NN7TacvSKM3DpYRA="
-        }
-      ]
-    },
-    {
-      "Route": "views/HomeView.js.gz",
-      "AssetFile": "/home/arch/Documents/GitHub/OmniCatzCB/obj/Debug/net9.0/compressed/wcfi7hfloc-g26i7kla2x.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "229"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 00:36:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xjATVhTO70RVA+XQ4gcEe90xuflcFUWtFo8s5qvsnBc="
         }
       ]
     },

@@ -21,16 +21,16 @@
       "PackagePath": "staticwebassets/assets/folder.svg"
     },
     {
+      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/AboutController.js",
+      "PackagePath": "staticwebassets/controller/AboutController.js"
+    },
+    {
       "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
       "PackagePath": "staticwebassets/controller/ComicBookController.js"
     },
     {
       "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js",
       "PackagePath": "staticwebassets/controller/FileController.js"
-    },
-    {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/HomeController.js",
-      "PackagePath": "staticwebassets/controller/HomeController.js"
     },
     {
       "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js",
@@ -49,12 +49,12 @@
       "PackagePath": "staticwebassets/model/DirectoryInfoLike.ts"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/HomeModelLike.ts",
-      "PackagePath": "staticwebassets/model/HomeModelLike.ts"
-    },
-    {
       "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js",
       "PackagePath": "staticwebassets/router.js"
+    },
+    {
+      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/AboutView.js",
+      "PackagePath": "staticwebassets/views/AboutView.js"
     },
     {
       "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
@@ -63,10 +63,6 @@
     {
       "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js",
       "PackagePath": "staticwebassets/views/FileView.js"
-    },
-    {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/HomeView.js",
-      "PackagePath": "staticwebassets/views/HomeView.js"
     },
     {
       "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ViewFunc.d.ts",

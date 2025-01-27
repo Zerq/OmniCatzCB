@@ -1,11 +1,13 @@
 import "./router.js";
-import {  } from  "./controller/HomeController.js";
+ 
 
 import { DirectoryController } from "./controller/FileController.js";
 import { FileView } from "./views/FileView.js";
 import { ComicBookController } from "./controller/ComicBookController.js";
 import { ComicBookView} from "./views/ComicBookView.js"
 
+import { AboutController } from "./controller/AboutController.js";
+import { AboutView} from "./views/AboutView.js"
 
 
 let currentController;
@@ -25,20 +27,14 @@ Router.register("#read\/([^\/]*)[\/]*(.*)", async (path, page) => {
     }
 });
 
+Router.register("#about", async (path, page) => {      
+        currentController = new AboutController(AboutView, document.querySelector("main")); 
+});
 
-location.hash ="#home";
+
+location.hash = "#about";
 
 
 
 
-//import { ComicBookController } from "../controller/ComicBookController.js";
-//import { ComicBookView } from "../views/ComicBookView.js";
-//export const InitiateComicBookReaderView = ()=> {
-//    /**
-//     * @type {import("../model/ComicbBookModelLike.js").ComicbBookModelLike}
-//     */
-//    const model = { 
-//        pages: []
-//    };
-//    new ComicBookController(model, ComicBookView, document.querySelector("body"));
-//};
+
