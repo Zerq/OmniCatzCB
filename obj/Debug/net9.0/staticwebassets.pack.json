@@ -1,91 +1,91 @@
 {
   "Files": [
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/app.js",
-      "PackagePath": "staticwebassets/app.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/application-vnd.comicbook+zip.svg",
-      "PackagePath": "staticwebassets/assets/application-vnd.comicbook+zip.svg"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\assets\\application-vnd.comicbook+zip.svg",
+      "PackagePath": "staticwebassets\\assets\\application-vnd.comicbook+zip.svg"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/drive-harddisk.svg",
-      "PackagePath": "staticwebassets/assets/drive-harddisk.svg"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\assets\\drive-harddisk.svg",
+      "PackagePath": "staticwebassets\\assets\\drive-harddisk.svg"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder-open.svg",
-      "PackagePath": "staticwebassets/assets/folder-open.svg"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\assets\\folder-open.svg",
+      "PackagePath": "staticwebassets\\assets\\folder-open.svg"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/assets/folder.svg",
-      "PackagePath": "staticwebassets/assets/folder.svg"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\assets\\folder.svg",
+      "PackagePath": "staticwebassets\\assets\\folder.svg"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/AboutController.js",
-      "PackagePath": "staticwebassets/controller/AboutController.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\controller\\AboutController.js",
+      "PackagePath": "staticwebassets\\controller\\AboutController.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/ComicBookController.js",
-      "PackagePath": "staticwebassets/controller/ComicBookController.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\controller\\ComicBookController.js",
+      "PackagePath": "staticwebassets\\controller\\ComicBookController.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/controller/FileController.js",
-      "PackagePath": "staticwebassets/controller/FileController.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\controller\\FileController.js",
+      "PackagePath": "staticwebassets\\controller\\FileController.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/elm.js",
-      "PackagePath": "staticwebassets/elm.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\elm.js",
+      "PackagePath": "staticwebassets\\elm.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/index.html",
-      "PackagePath": "staticwebassets/index.html"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/ComicbBookModelLike.ts",
-      "PackagePath": "staticwebassets/model/ComicbBookModelLike.ts"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\model\\ComicbBookModelLike.ts",
+      "PackagePath": "staticwebassets\\model\\ComicbBookModelLike.ts"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/model/DirectoryInfoLike.ts",
-      "PackagePath": "staticwebassets/model/DirectoryInfoLike.ts"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\model\\DirectoryInfoLike.ts",
+      "PackagePath": "staticwebassets\\model\\DirectoryInfoLike.ts"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/router.js",
-      "PackagePath": "staticwebassets/router.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\router.js",
+      "PackagePath": "staticwebassets\\router.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/AboutView.js",
-      "PackagePath": "staticwebassets/views/AboutView.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\views\\AboutView.js",
+      "PackagePath": "staticwebassets\\views\\AboutView.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ComicBookView.js",
-      "PackagePath": "staticwebassets/views/ComicBookView.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\views\\ComicBookView.js",
+      "PackagePath": "staticwebassets\\views\\ComicBookView.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/FileView.js",
-      "PackagePath": "staticwebassets/views/FileView.js"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\views\\FileView.js",
+      "PackagePath": "staticwebassets\\views\\FileView.js"
     },
     {
-      "Id": "/home/arch/Documents/GitHub/OmniCatzCB/wwwroot/views/ViewFunc.d.ts",
-      "PackagePath": "staticwebassets/views/ViewFunc.d.ts"
+      "Id": "C:\\Users\\zerq\\Documents\\GitHub\\OmniCatzCB\\wwwroot\\views\\ViewFunc.d.ts",
+      "PackagePath": "staticwebassets\\views\\ViewFunc.d.ts"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.OmniCatzCB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OmniCatzCB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.OmniCatzCB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.OmniCatzCB.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.OmniCatzCB.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.OmniCatzCB.props",
       "PackagePath": "build\\OmniCatzCB.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.OmniCatzCB.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.OmniCatzCB.props",
       "PackagePath": "buildMultiTargeting\\OmniCatzCB.props"
     },
     {
-      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.OmniCatzCB.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.OmniCatzCB.props",
       "PackagePath": "buildTransitive\\OmniCatzCB.props"
     }
   ],

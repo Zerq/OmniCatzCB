@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/OmniCatzCB.props" />
+  <Import Project="..\buildMultiTargeting\OmniCatzCB.props" />
 </Project>
