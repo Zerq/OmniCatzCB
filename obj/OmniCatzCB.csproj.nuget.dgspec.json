@@ -48,6 +48,10 @@
             "WebWindowNetCore.Linux": {
               "target": "Package",
               "version": "[6.2.0, )"
+            },
+            "ZipStorer": {
+              "target": "Package",
+              "version": "[4.0.1, )"
             }
           },
           "imports": [

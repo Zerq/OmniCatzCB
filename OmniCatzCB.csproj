@@ -6,5 +6,6 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="WebWindowNetCore.Linux" Version="6.2.0" />
+    <PackageReference Include="ZipStorer" Version="4.0.1" />
   </ItemGroup>
 </Project>

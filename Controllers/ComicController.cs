@@ -3,6 +3,7 @@ using System.IO.Compression;
 using System.Reflection;
 using System.Reflection.Metadata;
 using System.Text.Encodings.Web;
+using System.Threading.Tasks;
 using AspNetExtensions;
 using CsTools.Extensions;
 using Microsoft.AspNetCore.Mvc;
@@ -24,7 +25,7 @@ public class ComicController : Controller
         {
             using (var zip = new ZipArchive(file))
             {
-                return zip.Entries.Select(n => n.Name);
+                return zip.Entries.Where(n => this.getMime(n.Name) != null).Select(n => n.Name).OrderBy(n=> n);
             }
         }
 
@@ -36,11 +37,11 @@ public class ComicController : Controller
     {
         if (file.EndsWith(".jpg"))
         {
-            return "image/jpg";
+            return "image/jpeg";
         }
         if (file.EndsWith(".jpeg"))
         {
-            return "image/jpg";
+            return "image/jpeg";
         }
         if (file.EndsWith(".gif"))
         {
@@ -88,76 +89,57 @@ public class ComicController : Controller
 
 
     [HttpGet("/comic/{path}/{imageName}")]
-    public FileResult Img(string path, string imageName)
+    public async Task<FileContentResult> Img(string path, string imageName)
     {
-        byte[]? bytes = null;
-        using (var file = System.IO.File.OpenRead(path))
+        path = Uri.UnescapeDataString(path);
+
+        byte[] outResult;
+        using (var store = ZipStorer.Open(path, FileAccess.Read))
         {
-            if (file != null)
-            {
-                using (var zip = new ZipArchive(file))
-                {
-                    using (var imageFile = zip.GetEntry(imageName)?.Open())
-                    {
-
-                        if (imageFile == null)
-                        {
-                            throw new FileLoadException("could not load " + imageName);
-                        }
-
-                        using (BinaryReader reader = new BinaryReader(imageFile))
-                        {
-                            bytes = reader.ReadBytes((int)imageFile.Length);
-                        }
-
-                    }
-                }
-            }
-        }
-
-        if (bytes == null || bytes?.Length == 0)
-        {
-            throw new FileLoadException("could not load " + imageName);
+            var dir = store.ReadCentralDir();
+            var file = dir.Find(n => n.FilenameInZip == imageName);
+            store.ExtractFile(file, out outResult);
         }
 
         var mime = this.getMime(imageName);
 
-        if (mime == null){
-            throw new ApplicationException(imageName + " Cannot be loaded as image");
-        }
-
-        return new FileContentResult(bytes!, mime);
+        return new FileContentResult(outResult, mime);
     }
 
     [HttpGet("/filebrowse_home")]
-    public SimpleDirectory ListDir() {
-       return ListDir(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile));
+    public SimpleDirectory ListDir()
+    {
+        return ListDir(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile));
     }
 
     [HttpGet("/filebrowse/{path}")]
-    public SimpleDirectory ListDir(string path) {
+    public SimpleDirectory ListDir(string path)
+    {
         path = Uri.UnescapeDataString(path);
 
 
-        if (!Path.Exists(path)){
+        if (!Path.Exists(path))
+        {
             throw new ApplicationException($@"invalid path could not load! ""{path}""");
         }
-        
+
         return this.makeDir(new DirectoryInfo(path));
     }
 
-    private SimpleDirectory makeDir(DirectoryInfo dir) {
+    private SimpleDirectory makeDir(DirectoryInfo dir)
+    {
         var x = dir.GetDirectories();
 
-        var resultDir = new SimpleDirectory(){
-            FullName = dir.FullName,        
+        var resultDir = new SimpleDirectory()
+        {
+            FullName = dir.FullName,
             Parent = dir.Parent?.FullName ?? null,
-            Files = dir.GetFiles().Where(n=>(n.Extension) == ".cbz").Select(n=> new SimpleFile(){  Name = n.Name, FullName= n.FullName, Extension = n.Extension}).ToList(),
-            Directories = dir.GetDirectories().Select(n=> new SimpleDirectory(){ Name = n.Name, FullName= n.FullName}).ToList()
+            Files = dir.GetFiles().Where(n => (n.Extension) == ".cbz").Select(n => new SimpleFile() { Name = n.Name, FullName = n.FullName, Extension = n.Extension }).ToList(),
+            Directories = dir.GetDirectories().Select(n => new SimpleDirectory() { Name = n.Name, FullName = n.FullName }).ToList()
         };
 
         return resultDir;
-    } 
+    }
 }
 
 public class SimpleFile

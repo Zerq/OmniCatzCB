@@ -7,15 +7,22 @@ import { ComicBookController } from "./controller/ComicBookController.js";
 import { ComicBookView} from "./views/ComicBookView.js"
 
 
-Router.register("#open", async () => {
-    
 
-    new DirectoryController(FileView, document.querySelector("main"));
+let currentController;
 
+Router.register("#open", async () => {   
+    currentController = new DirectoryController(FileView, document.querySelector("main"));
 });
 
-Router.register("#read\/([^\/]*)[\/]*(.*)", async (path, page) => {    
-    new ComicBookController(ComicBookView, document.querySelector("main"), path);
+
+Router.register("#read\/([^\/]*)[\/]*(.*)", async (path, page) => {      
+
+    if (Object.getPrototypeOf(currentController) === ComicBookController.prototype){
+        currentController.setPage(page);
+
+    } else {
+        currentController = new ComicBookController(ComicBookView, document.querySelector("main"), path, page);
+    }
 });
 
 

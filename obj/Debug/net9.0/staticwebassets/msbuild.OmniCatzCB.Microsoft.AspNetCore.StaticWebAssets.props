@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ky45qmn9xg</Fingerprint>
-      <Integrity>XMoTyDutTtoF0TqeF/oQWP+cwRBBSPyHgF9PLVE4smc=</Integrity>
+      <Fingerprint>d1gxec974w</Fingerprint>
+      <Integrity>cZ39uAJvloBMJVNeitH4rzHAko+1LLMvqfA4Qm/wFoM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.js'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>6anr36kc5b</Fingerprint>
-      <Integrity>YlZWhS7NS6KFTTP/64qv1KSihC+z5rH3DDD+gsTcqn8=</Integrity>
+      <Fingerprint>23jd5lyxdc</Fingerprint>
+      <Integrity>3pqsk4cERudGtqxPFzm2QShfQjlC+mzVWFyykHX4wpk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\controller\ComicBookController.js'))</OriginalItemSpec>
@@ -120,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ijmkxa17uh</Fingerprint>
-      <Integrity>HqgLmQEjyoVrrK+tkNP2nKa+BwzpNOJrbnjNI/P6S5A=</Integrity>
+      <Fingerprint>yu50rcuxkl</Fingerprint>
+      <Integrity>VhfKJ9c8uh+pMsQinR5VvPedFWQTv4p2Ao8/VTrr74U=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\controller\FileController.js'))</OriginalItemSpec>
@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>ch5h3bokuu</Fingerprint>
-      <Integrity>AFs1UQqR80W8AqwCBjkWyt4wduWgvAZtIoLwqt+rI/M=</Integrity>
+      <Fingerprint>89lv9mdvl4</Fingerprint>
+      <Integrity>pDFW6wDUzZ7SuaHj6onLnJBNka0hd6DKYPYZZL4Iipk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\controller\HomeController.js'))</OriginalItemSpec>
@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7ma4gaiwif</Fingerprint>
-      <Integrity>v6Ys0dqsregM7TQ+w2L2pRWbYpE9pQr56ef/FdeIt90=</Integrity>
+      <Fingerprint>gamc1avhpz</Fingerprint>
+      <Integrity>KMtoUFK6B/2kqlTLvHfSaKqhpUOFyztjvETnz6kU/iw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -192,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>pkeznlay28</Fingerprint>
-      <Integrity>d8A8rQz9iZCA3DVONDvsavYvN8UY6C3DE3CrlRCEmzc=</Integrity>
+      <Fingerprint>vro5xy8ax0</Fingerprint>
+      <Integrity>VWoM8gZR71ScXkuwfvPTOQorCCewhM1C32Qca5H+4Xc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\model\ComicbBookModelLike.ts'))</OriginalItemSpec>
@@ -246,8 +246,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wpn191pi8j</Fingerprint>
-      <Integrity>VIvfHv1Q/LATckfeaTFINfRCsS2U0H5yTkO3jJxJeZY=</Integrity>
+      <Fingerprint>h2pgjigtaf</Fingerprint>
+      <Integrity>6Z02uzDwjwBThzoHNN2010NGWz8/zkMAo9kbM0O+S1Q=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\router.js'))</OriginalItemSpec>
@@ -264,8 +264,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>7073yyq904</Fingerprint>
-      <Integrity>ya80RIhqKpzkuBGFQSszj2Wcb4oTM90OAFJCYBIqJyY=</Integrity>
+      <Fingerprint>og6granq5g</Fingerprint>
+      <Integrity>SChUrBsBQvyU/RExCRPYObYS2i77VtnDbH/UI1JX1mk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\views\ComicBookView.js'))</OriginalItemSpec>

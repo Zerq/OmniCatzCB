@@ -21,19 +21,26 @@ export class ComicBookController {
     #comicBookPath;
 
     /**
+     * @type HTMLElement
+     */
+    #container
+
+    /**
      * @param {ComicbBookModelLike} model
      * @param {ComicBookViewFunc} view
      * @param {HTMLElement} container
      */
     constructor(view, container, comicBookPath) {
-
+        this.#container = container;
         this.#view = view;
         this.#comicBookPath = comicBookPath;
 
 
         this.#loadComic(comicBookPath).then(n=> {
             this.#model = n;
-            container.appendChild(this.#view(this.#model, this));
+            this.#model.path= comicBookPath;
+            this.#container.innerHTML = "";
+            this.#container.appendChild(this.#view(this.#model, this));
         });
     }
 
@@ -55,16 +62,29 @@ export class ComicBookController {
 
         let bookmark = window.localStorage.getItem(path);
        
-        if (bookmark === undefined){
+        if (bookmark === null){
             bookmark = 0;
             window.localStorage.setItem(path, bookmark);
-        }
+        } else {
+            bookmark = Number.parseInt(bookmark);
+        } 
 
-        return { bookmark: bookmark, pages: list };
+
+
+
+        return { "bookmark": bookmark, "pages": list, "path": path };
         //render view
 
     }
 
 
+    
+
+    setPage(nr){
+        this.#model.bookmark = nr;
+        this.#container.innerHTML = "";
+        this.#container.appendChild(this.#view(this.#model, this));
+        window.localStorage.setItem(this.#model.path, this.#model.bookmark);
+    } 
   
 }

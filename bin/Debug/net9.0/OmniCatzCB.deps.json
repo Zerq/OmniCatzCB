@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "OmniCatzCB/1.0.0": {
         "dependencies": {
-          "WebWindowNetCore.Linux": "6.2.0"
+          "WebWindowNetCore.Linux": "6.2.0",
+          "ZipStorer": "4.0.1"
         },
         "runtime": {
           "OmniCatzCB.dll": {}
@@ -167,6 +168,7 @@
           }
         }
       },
+      "System.Text.Encoding.CodePages/8.0.0": {},
       "System.Text.Encodings.Web/7.0.0": {},
       "System.Text.Json/7.0.3": {
         "dependencies": {
@@ -193,6 +195,17 @@
           "lib/net8.0/WebWindowNetCore.Linux.dll": {
             "assemblyVersion": "6.2.0.0",
             "fileVersion": "6.2.0.0"
+          }
+        }
+      },
+      "ZipStorer/4.0.1": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/ZipStorer.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.0.1.0"
           }
         }
       }
@@ -281,6 +294,13 @@
       "path": "system.reactive/6.0.0",
       "hashPath": "system.reactive.6.0.0.nupkg.sha512"
     },
+    "System.Text.Encoding.CodePages/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OZIsVplFGaVY90G2SbpgU7EnCoOO5pw1t4ic21dBF3/1omrJFpAGoNAVpPyMVOC90/hvgkGG3VFqR13YgZMQfg==",
+      "path": "system.text.encoding.codepages/8.0.0",
+      "hashPath": "system.text.encoding.codepages.8.0.0.nupkg.sha512"
+    },
     "System.Text.Encodings.Web/7.0.0": {
       "type": "package",
       "serviceable": true,
@@ -308,6 +328,13 @@
       "sha512": "sha512-yH/YkH98wlomZeXtVp/Hr80Ro1z1aoMNn7nT7+JaP///dKHz5x8UPQ3ozfJqig8X8JnZI2G7fGkPeoqQbD2ngA==",
       "path": "webwindownetcore.linux/6.2.0",
       "hashPath": "webwindownetcore.linux.6.2.0.nupkg.sha512"
+    },
+    "ZipStorer/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VgeFSKRIJUIBNYsoSi6MlmW1uf7gwwBzpX9qVbIpp45ZBOK2+N718p2423sjoygQdna+t0GH98qZVzRx5zIT7g==",
+      "path": "zipstorer/4.0.1",
+      "hashPath": "zipstorer.4.0.1.nupkg.sha512"
     }
   }
 }

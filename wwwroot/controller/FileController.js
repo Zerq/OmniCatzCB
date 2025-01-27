@@ -29,7 +29,6 @@ export class DirectoryController {
     constructor(view, container) {
         this.#view = view;
         this.#container = container;
-
         this.getDirectory(null).then();
     }
 

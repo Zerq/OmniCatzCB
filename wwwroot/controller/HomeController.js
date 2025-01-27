@@ -1,3 +1,4 @@
+
 /**
  * @typedef {import("../model/HomeModelLike").HomeModelLike } HomeModelLike
  * @typedef {import("../views/ViewFunc").ViewFunc<HomeModelLike, HomeController> } HomeViewFunc
@@ -23,14 +24,11 @@ export class HomeController {
     constructor(model, view, container) {
         this.#model = model;
         this.#view = view;
-
+        
         //initial render
+        container.innerHTML ="";
         container.appendChild(this.#view(this.#model, this));
+
     }
 
-
-    ClickThingy() {
-
-        alert("bork");
-    }
 }
