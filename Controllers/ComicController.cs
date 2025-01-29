@@ -1,11 +1,5 @@
 
 using System.IO.Compression;
-using System.Reflection;
-using System.Reflection.Metadata;
-using System.Text.Encodings.Web;
-using System.Threading.Tasks;
-using AspNetExtensions;
-using CsTools.Extensions;
 using Microsoft.AspNetCore.Mvc;
 
 public class ComicController : Controller
@@ -89,7 +83,7 @@ public class ComicController : Controller
 
 
     [HttpGet("/comic/{path}/{imageName}")]
-    public async Task<FileContentResult> Img(string path, string imageName)
+    public FileContentResult Img(string path, string imageName)
     {
         path = Uri.UnescapeDataString(path);
 
@@ -102,6 +96,10 @@ public class ComicController : Controller
         }
 
         var mime = this.getMime(imageName);
+
+        if (mime == null){
+            throw new FileLoadException("mimetype not found for " + imageName);
+        }
 
         return new FileContentResult(outResult, mime);
     }

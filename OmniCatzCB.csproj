@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="WebWindowNetCore.Linux" Version="6.2.0" />
+    <PackageReference Include="WebWindowNetCore" Version="10.0.16" />
     <PackageReference Include="ZipStorer" Version="4.0.1" />
   </ItemGroup>
 </Project>

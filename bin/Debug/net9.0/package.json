@@ -1,6 +1,0 @@
-{
-    "devDependencies": {
-        "jsdoc":"4.0.4",
-        "typescript":"5.7.3"
-    }
-}
