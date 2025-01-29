@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        fgdgfdfg
+    </title>
+    <script async type="module">
+        import { RectangleTool } from "./testLab.js";
+        new RectangleTool(document.getElementById("newBox"), "box");
+        new RectangleTool(document.getElementById("newCirlcle"), "circle");
+
+        
+
+    </script>
+    <style>
+        .hide {
+  transition: 0.01s;
+  transform: translateX(-9999px);
+}
+        * {
+            padding: 0;
+            margin:0;
+            border:0;
+        }
+
+        .designer{
+            display: grid;
+            grid-template-rows: 5rem calc(100vh - 5rem);
+            grid-template-columns: 15rem calc(100vw - 15rem);
+        }
+
+        .designer header {
+            grid-column-start: 1;
+            grid-column-end:  3;
+            grid-row-start: 1;
+            grid-row-end: 1;
+
+            background-color: rgb(255, 0, 221);     
+            
+
+            display:  flex;
+            flex-wrap: wrap;
+
+            .box , button {
+            background-color: brown;
+            color:wheat;
+            height: 1rem;
+            width: fit-content;
+            padding-inline: 1rem;
+            cursor: pointer;
+
+            }        
+            .box {
+                position: relative;
+                top:0;
+                left: 0;
+                text-align: center;
+                resize: none;
+                cursor: grab;
+                background-color: yellow;
+                color:black
+            }
+            
+        }
+
+        main {
+            grid-column-start: 2;
+            grid-column-end: 2;
+            grid-row-start: 2;
+            grid-row-end: 2;
+
+            background-color: aqua;
+        }
+
+        aside {
+            grid-column-start: 1;
+            grid-column-end:  1;
+            grid-row-start: 2;
+            grid-row-end: 2;
+
+            background-color: rgb(197, 148, 243);
+        }
+
+        .box {
+            background-color: yellow;
+            border: solid 1px orange;
+            position: absolute;
+            left: 300px;
+            top: 200px;
+            width: 100px;
+            height: 100px;
+            user-select: none;
+            display: flex;
+            text-align: center;
+            resize: both;
+            overflow: hidden;
+        }
+        .circle {
+            background-color: lightpink;
+            border: solid 1px purple;
+            position: absolute;
+            left: 300px;
+            top: 200px;
+            width: 100px;
+            height: 100px;
+            user-select: none;
+            display: flex;
+            text-align: center;
+            border-radius: 50%;
+            overflow: hidden;
+        }
+
+        .container {
+            .box {
+                position: unset !important;
+
+            }
+
+            background-color: silver;
+            border: solid 1px gray;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 160px;
+            height: 160px;
+            user-select: none;
+            display: flex;
+
+            div {
+                margin: auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="designer">
+        <header class="toolbox">
+            <div id="newBox" draggable="true" class="box">
+                New box
+            </div>
+            <div id="newCirlcle" draggable="true" class="box">
+                New point
+            </div>
+
+            
+
+            <button>Open</button>
+            <button>Next</button>
+            <button>Previous</button>
+        </header>
+        <aside class="timeLine">
+
+        </aside>
+        <main>
+
+        </main>
+    </div>
+
+
+
+</body>
+
+</html>

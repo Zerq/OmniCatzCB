@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        fgdgfdfg
+    </title>
+    <script async type="module">
+        import { Initialize } from "./testLab.js";
+        Initialize();
+    </script>
+    <style>
+        .box {
+            background-color: yellow;
+            border: solid 1px orange;
+            position: absolute;
+            left: 300px;
+            top: 200px;
+            width: 100px;
+            height: 100px;
+            user-select: none;
+            display: flex;
+            div {
+                margin:auto;
+            }
+            resize: both;
+            overflow: hidden;
+        }
+
+        .container {
+            .box {
+                position:unset !important;
+           
+            }
+
+            background-color: silver;
+            border: solid 1px gray;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 160px;
+            height: 160px;
+            user-select: none;
+            display: flex;
+            div {
+                margin:auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="box" draggable="true" class="box">
+        <div>box</div>
+    </div>
+    <div  id="container" class="container">
+        <div>container</div>
+    </div>
+
+</body>
+
+</html>
