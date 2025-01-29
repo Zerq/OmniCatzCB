@@ -5,63 +5,74 @@
     <title>
         fgdgfdfg
     </title>
-    <script async type="module">
-        import { RectangleTool } from "./testLab.js";
-        new RectangleTool(document.getElementById("newBox"), "box");
-        new RectangleTool(document.getElementById("newCirlcle"), "circle");
-
-        
-
+    <script type="module">
+        import initialise from "./testLab.js"
+        initialise();
     </script>
     <style>
         .hide {
-  transition: 0.01s;
-  transform: translateX(-9999px);
-}
-        * {
-            padding: 0;
-            margin:0;
-            border:0;
+            transition: 0.01s;
+            transform: translateX(-9999px);
         }
 
-        .designer{
+        * {
+            padding: 0;
+            margin: 0;
+            border: 0;
+        }
+
+        .designer {
             display: grid;
-            grid-template-rows: 5rem calc(100vh - 5rem);
+            grid-template-rows: 1rem calc(100vh - 1rem);
             grid-template-columns: 15rem calc(100vw - 15rem);
         }
 
         .designer header {
             grid-column-start: 1;
-            grid-column-end:  3;
+            grid-column-end: 3;
             grid-row-start: 1;
             grid-row-end: 1;
-
-            background-color: rgb(255, 0, 221);     
-            
-
-            display:  flex;
+            background-color: rgb(255, 0, 221);
+            display: flex;
             flex-wrap: wrap;
 
-            .box , button {
-            background-color: brown;
-            color:wheat;
-            height: 1rem;
-            width: fit-content;
-            padding-inline: 1rem;
-            cursor: pointer;
+            .box,
+            button {
+                background-color: brown;
+                color: wheat;
+                height: 1rem;
+                width: fit-content;
+                padding-inline: 1rem;
+                cursor: pointer;
 
-            }        
+            }
+
             .box {
                 position: relative;
-                top:0;
+                top: 0;
                 left: 0;
                 text-align: center;
                 resize: none;
                 cursor: grab;
                 background-color: yellow;
-                color:black
+                opacity: 1;
+                color: black;
             }
-            
+
+            .circle {
+                position: relative;
+                top: 0;
+                left: 0;
+                text-align: center;
+                resize: none;
+                cursor: grab;
+                border-radius: 0 !important;
+                width: fit-content;
+                padding-inline: 1rem;
+                background-color: lightpink;
+                border: solid 1px purple;
+                opacity: 1;
+            }
         }
 
         main {
@@ -75,7 +86,7 @@
 
         aside {
             grid-column-start: 1;
-            grid-column-end:  1;
+            grid-column-end: 1;
             grid-row-start: 2;
             grid-row-end: 2;
 
@@ -86,37 +97,33 @@
             background-color: yellow;
             border: solid 1px orange;
             position: absolute;
-            left: 300px;
-            top: 200px;
-            width: 100px;
-            height: 100px;
+            width: 5rem;
+            height: 5rem;
             user-select: none;
             display: flex;
             text-align: center;
             resize: both;
             overflow: hidden;
+            opacity: 0.7;
+            user-select: none;
         }
+
         .circle {
             background-color: lightpink;
             border: solid 1px purple;
             position: absolute;
-            left: 300px;
-            top: 200px;
-            width: 100px;
-            height: 100px;
+            width: 1rem;
+            height: 1rem;
             user-select: none;
             display: flex;
             text-align: center;
             border-radius: 50%;
             overflow: hidden;
+            opacity: 0.7;
+            user-select: none;
         }
 
         .container {
-            .box {
-                position: unset !important;
-
-            }
-
             background-color: silver;
             border: solid 1px gray;
             position: absolute;
@@ -126,6 +133,11 @@
             height: 160px;
             user-select: none;
             display: flex;
+
+            .box {
+                position: unset !important;
+
+            }       
 
             div {
                 margin: auto;
@@ -138,14 +150,11 @@
     <div class="designer">
         <header class="toolbox">
             <div id="newBox" draggable="true" class="box">
-                New box
+                read aloud
             </div>
-            <div id="newCirlcle" draggable="true" class="box">
-                New point
+            <div id="newCirlcle" draggable="true" class="circle">
+                pan to
             </div>
-
-            
-
             <button>Open</button>
             <button>Next</button>
             <button>Previous</button>
