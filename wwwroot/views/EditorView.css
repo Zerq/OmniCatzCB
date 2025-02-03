@@ -1,0 +1,157 @@
+
+.appbody {
+    overflow: hidden;
+    .hide {
+        transition: 0.01s;
+        transform: translateX(-9999px);
+    }
+
+    * {
+        padding: 0;
+        margin: 0;
+        border: 0;
+    }
+
+    .designer {
+        display: grid;
+        grid-template-rows: 1rem calc(100vh - 1rem);
+        grid-template-columns: 15rem calc(100vw - 15rem);
+    }
+
+    .designer header {
+        grid-column-start: 1;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 1;
+        background-color: rgb(255, 0, 221);
+        display: flex;
+        flex-wrap: wrap;
+
+        .box,
+        button {
+            background-color: brown;
+            color: wheat;
+            height: 1rem;
+            width: fit-content;
+            padding-inline: 1rem;
+            cursor: pointer;
+
+        }
+
+        .box {
+            position: relative;
+            top: 0;
+            left: 0;
+            text-align: center;
+            resize: none;
+            cursor: grab;
+            background-color: yellow;
+            opacity: 1;
+            color: black;
+        }
+
+        .circle {
+            position: relative;
+            top: 0;
+            left: 0;
+            text-align: center;
+            resize: none;
+            cursor: grab;
+            border-radius: 0 !important;
+            width: fit-content;
+            padding-inline: 1rem;
+            background-color: lightpink;
+            border: solid 1px purple;
+            opacity: 1;
+        }
+    }
+
+    .workArea {
+        grid-column-start: 2;
+        grid-column-end: 2;
+        grid-row-start: 2;
+        grid-row-end: 2;
+
+        background-color: aqua;
+    }
+
+    aside {
+        grid-column-start: 1;
+        grid-column-end: 1;
+        grid-row-start: 2;
+        grid-row-end: 2;
+
+        background-color: rgb(197, 148, 243);
+      
+        form {
+            display: grid;;
+            label {
+
+            }
+            input {
+    
+            }
+
+            input[readonly] {
+                background-color: gray;
+                color: white;
+                user-select: none;
+            }
+        }
+
+
+   
+
+    }
+
+    .box {
+        background-color: yellow;
+        border: solid 1px orange;
+        position: absolute;
+        width: 5rem;
+        height: 5rem;
+        user-select: none;
+        display: flex;
+        text-align: center;
+        resize: both;
+        overflow: hidden;
+        opacity: 0.7;
+        user-select: none;
+    }
+
+    .circle {
+        background-color: lightpink;
+        border: solid 1px purple;
+        position: absolute;
+        width: 1rem;
+        height: 1rem;
+        user-select: none;
+        display: flex;
+        text-align: center;
+        border-radius: 50%;
+        overflow: hidden;
+        opacity: 0.7;
+        user-select: none;
+    }
+
+    .container {
+        background-color: silver;
+        border: solid 1px gray;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        width: 160px;
+        height: 160px;
+        user-select: none;
+        display: flex;
+
+        .box {
+            position: unset !important;
+
+        }
+
+        div {
+            margin: auto;
+        }
+    }
+}

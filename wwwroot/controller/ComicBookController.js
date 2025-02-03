@@ -26,7 +26,6 @@ export class ComicBookController {
     #container
 
     /**
-     * @param {ComicbBookModelLike} model
      * @param {ComicBookViewFunc} view
      * @param {HTMLElement} container
      */
@@ -52,12 +51,8 @@ export class ComicBookController {
         //fetch list of images
 
         const request = await fetch(`${location.origin}/comic/${path}`);
-        
-
         const list = await request.json();
     
-
-
         //query local storage for book mark
 
         let bookmark = window.localStorage.getItem(path);
@@ -68,10 +63,7 @@ export class ComicBookController {
         } else {
             bookmark = Number.parseInt(bookmark);
         } 
-
-
-
-
+        
         return { "bookmark": bookmark, "pages": list, "path": path };
         //render view
 

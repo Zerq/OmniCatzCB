@@ -1,48 +1,6 @@
 import { Elm } from "./elm.js";
 
 
-
-
-
-export class CommandBase {
-    CommandId;
-
-    /**
-     * @returns Array<EventBase>
-     */
-    execute() {
-        throw new Error("execute not implemented!");
-    }
-}
-
-export class EventBase {
-    /**
-     * @type {string}
-     */
-    EventName;
-    /**
-     * @type {string}
-     */
-    Id;
-    /**
-     * @type {string}
-     */
-    CommandId;
-    /**
-     * @type {number}
-     */
-    SequenceNr;
-    /**
-     * @type {Date}
-     */
-    Created;
-}
-
-export class ReadAlong {
-    constructor() {
-    }
-}
-
 /**
  *@typedef {"select" | "newItem" | "move" }  EventNames
  */
@@ -105,7 +63,6 @@ export class RectangleTool {
     #select(e) {
         EventPipe.emit("select", { subject: e.target });
     }
-
 
 
     #timeout;
@@ -238,7 +195,7 @@ export class RectangleTool {
         }
 
         let box = document.getElementById(id);
-        const main = document.querySelector("main");
+        const main = document.querySelector(".workArea");
         const toolbar = document.querySelector(".toolbox");
         const aside = document.querySelector("aside");
         const asideRect = aside.getBoundingClientRect();
@@ -274,16 +231,12 @@ export class RectangleTool {
      */
     constructor(newbox, className) {
         this.#className = className;
-        const boxes = document.querySelectorAll("main .box");
-        const main = document.querySelector("main");
+        const main = document.querySelector(".workArea");
         const container = document.querySelector(".container");
         const toolbox = document.querySelector(".toolbox");
         const timeLine = document.querySelector(".timeLine");
 
-        this.#resizeObserver = new ResizeObserver(e=> {
-            this.#resize(e)
-        });
-
+        this.#resizeObserver = new ResizeObserver(e=> this.#resize(e));
 
         main.addEventListener("drop", e => this.#drop(e));
         main.addEventListener("dragover", e => this.#allowDrop(e));

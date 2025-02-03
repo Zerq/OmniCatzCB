@@ -21,16 +21,6 @@ export class DirectoryController {
     */
     #container;
 
-    /**
-     * @param {DirectoryInfoLike} model
-     * @param {DirectoryViewFunc} view
-     * @param {HTMLElement} container
-     */
-    constructor(view, container) {
-        this.#view = view;
-        this.#container = container;
-        this.getDirectory(null).then();
-    }
 
 
     /**
@@ -57,7 +47,24 @@ export class DirectoryController {
     
     openFile(e){
         const fullName = e.currentTarget.getAttribute("data-fullName");
-        location.hash = "#read/" + encodeURIComponent(fullName);
+        location.hash = this.#openUrlFragment + encodeURIComponent(fullName);
     }
+
+
+    #openUrlFragment;
+
+    /**
+     * @param {DirectoryInfoLike} model
+     * @param {DirectoryViewFunc} view
+     * @param {HTMLElement} container
+     * @param {string} openUrlFragment
+     */
+        constructor(view, container, openUrlFragment) {
+            this.#view = view;
+            this.#container = container;
+            this.getDirectory(null).then();
+            this.#openUrlFragment =  openUrlFragment;
+        }
+    
 
 }
