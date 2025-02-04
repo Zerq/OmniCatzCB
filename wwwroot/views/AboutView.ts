@@ -1,12 +1,8 @@
 import { Elm } from "../elm.js";
+import { AboutController } from "../controller/AboutController.js";
 
-/**
- * @param {import("../controller/AboutController.js").AboutController} controller
- */
-export const AboutView = (controller) => {
-    return Elm("pre", { onclick: e => controller.ClickThingy() },`
-
-    
+export const AboutView = (controller: AboutController) => {
+    return Elm("pre", {}, `
         Very basic comic book reader app.
         Currently only has limited support for formats
 

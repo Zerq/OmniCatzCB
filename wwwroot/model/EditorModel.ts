@@ -10,14 +10,8 @@
  *   and the animated voiced client basically will be consumign these to replay the comic... rather then like project onto a view it will be replayed as a sequence
  */
 export class ActionBase {
-    /**
-     * @type {string}
-     */
-    EventName;
-    /**
-     * @type {number}
-     */
-    SequenceNr;
+    EventName:string;
+    SequenceNr:number;
 }
 
 export class ReadAloud extends ActionBase {
@@ -26,35 +20,12 @@ export class ReadAloud extends ActionBase {
         this.EventName = ReadAloud.name;
     }
 
-    /**
-     * @type {number}
-     */
-    X;
-
-    /**
-     * @type {number}
-     */
-    Y;
-
-    /**
-     * @type {number}
-     */
-    Width;
-
-    /**
-     * @type {number}
-     */
-    Height;
-
-    /**
-     * @type {string} the voice over voice to be used might have to make this some intermediate configurable reference set in case i later switch out TTS engines... like en-AU_male1 or something....
-     */
-    Voice;
-
-    /**
-     * @type {string?} allows for arbitrary text to be written in.
-     */
-    Override;
+    X:number; 
+    Y:number;   
+    Width:number;
+    Height:number; 
+    Voice:string;
+    Override:string;
 }
 
 
@@ -63,29 +34,9 @@ export class MoveTo extends ActionBase {
         super();
         this.EventName = MoveTo.name;
     }
-
-    /**
-     * @type {number}
-     */
-    X;
-
-    /**
-     * @type {number}
-     */
-    Y;
-
-    /**
-     * @type {number}
-     */
-    Zoom;
-
-    /**
-     * @type {number}
-     */
-    Speed;
-
-    /**
-     * @type {string} animation effect etc.. panning and the like
-     */
-    Effect;
+    X:number; 
+    Y:number; 
+    Zoom:number; 
+    Speed:number; 
+    Effect:string;
 }

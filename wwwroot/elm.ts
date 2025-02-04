@@ -5,7 +5,7 @@
  * @param  {HTMLElement|string} children child element or text content
  * @returns 
  */
-export function Elm(tag, attributes, ...children) {
+export function Elm(tag:string, attributes:{[name:string]:any}, ...children: Array<HTMLElement|string>) {
     let result = document.createElement(tag);
     if (attributes) {
         for (let attrName in attributes) {

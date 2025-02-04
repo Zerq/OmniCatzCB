@@ -1,10 +1,8 @@
 import { Elm } from "../elm.js";
+import {ComicbBookModelLike} from "../model/ComicbBookModelLike.js";
+import {ComicBookController} from "../controller/ComicBookController.js";
 
-/**
- * @param {import("../model/ComicbBookModelLike.js").ComicbBookModelLike} model
- * @param {ComicBookController} controller
- */
-export const ComicBookView = (model, controller) => {
+export const ComicBookView = (model:ComicbBookModelLike, controller:ComicBookController) => {
 
     // position logic
     // 0 even   +1

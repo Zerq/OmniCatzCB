@@ -1,9 +1,0 @@
-{
-    
-    "compilerOptions": {
-        "plugins": [
-        ],
-        "lib": ["ES2024","DOM"]
-    
-    }
-}

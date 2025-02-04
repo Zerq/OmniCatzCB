@@ -1,12 +1,10 @@
 import { Elm } from "../elm.js";
 import { ReadAloud, MoveTo } from "../model/EditorModel.js";
+import { EditorController } from "../controller/EditorController.js";
+import { EditorModelLike } from "../model/EditorModelLike.js";
 
-/**
- * @param {import("../controller/EditorController.js").EditorController} controller
- * @param {import("../model/EditorModelLike").EditorModelLike} model
- * @returns HtmlElement
- */
-export const WorkSpaceChildView = (model, controller) => {
+
+export const WorkSpaceChildView = (model:EditorModelLike, controller:EditorController) => {
 
     const mainApplicationHeader = document.querySelector("#mainApplicationHeader");
     const main = document.querySelector("#workArea");
@@ -21,15 +19,15 @@ export const WorkSpaceChildView = (model, controller) => {
 
     return Array.from(model.Events.values()).map(n => {
         let inst;
-
         switch (n.EventName) {
             case ReadAloud.name:
+                let readAloud = n as ReadAloud;
                 inst = Elm("div",
                     {
                         id: n.Id,
                         draggable: true,
                         class: "box",
-                        style: `left: ${n.X + asideRect.width}px; top: ${n.Y + headerRect.height}px; width: ${n.Width}px; height: ${n.Height}; `,
+                        style: `left: ${readAloud.X + asideRect.width}px; top: ${readAloud.Y + headerRect.height}px; width: ${readAloud.Width}px; height: ${readAloud.Height}; `,
                         onDragStart: e => controller.drag(e),
                         onDragEnd: e => controller.dragend(e),
                         onClick: e => controller.select(e)
@@ -37,14 +35,14 @@ export const WorkSpaceChildView = (model, controller) => {
 
                 controller.ResizeObserver.observe(inst);
                 break;
-
             case MoveTo.name:
+                let moveTo = n as MoveTo;
                 inst = Elm("div",
                     {
                         id: n.Id,
                         draggable: true,
                         class: "circle",
-                        style: `left: ${n.X + asideRect.width}px; top: ${n.Y + headerRect.height}px;`,
+                        style: `left: ${moveTo.X + asideRect.width}px; top: ${moveTo.Y + headerRect.height}px;`,
                         onDragStart: e => controller.drag(e),
                         onDragEnd: e => controller.dragend(e),
                         onClick: e => controller.select(e)
@@ -56,14 +54,8 @@ export const WorkSpaceChildView = (model, controller) => {
     })
 };
 
-/**
- * @param {import("../controller/EditorController.js").EditorController} controller
- * @param {import("../model/EditorModelLike").EditorModelLike} model
- * @returns HtmlElement
- */
-export const AssideView = (model, controller) => {
+export const AssideView = (model:EditorModelLike, controller:EditorController) => {
     const item = model.Events.get(model.SelectedItem);
-
     if (model.SelectedItem !== undefined && model.selectedType === "box") {
     
         return Elm("form", { id:"propertyGridForm" },
@@ -132,16 +124,11 @@ export const AssideView = (model, controller) => {
 };
 
 
-/**
- * @param {import("../controller/EditorController.js").EditorController} controller
- * @param {import("../model/EditorModelLike").EditorModelLike} model
- * @returns HtmlElement
- */
-export const EditorView = (model, controller) => {
+export const EditorView = (model:EditorModelLike, controller:EditorController) => {
 
     const old = document.head.getElementsByClassName("viewStyle")
     if (old.length !== 0) {
-        old.array.forEach(element => {
+       Array.from(old).forEach(element => {
             document.head.removeChild(element);
         });
     };
