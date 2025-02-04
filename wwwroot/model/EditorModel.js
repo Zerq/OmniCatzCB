@@ -15,10 +15,6 @@ export class ActionBase {
      */
     EventName;
     /**
-     * @type {string}
-     */
-    BatchId;
-    /**
      * @type {number}
      */
     SequenceNr;
