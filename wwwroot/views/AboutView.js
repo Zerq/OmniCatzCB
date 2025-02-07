@@ -1,7 +1,5 @@
 import { Elm } from "../elm.js";
-import { AboutController } from "../controller/AboutController.js";
-
-export const AboutView = (controller: AboutController) => {
+export const AboutView = (controller) => {
     return Elm("pre", {}, `
         Very basic comic book reader app.
         Currently only has limited support for formats
@@ -18,3 +16,4 @@ export const AboutView = (controller: AboutController) => {
 
         `);
 };
+//# sourceMappingURL=AboutView.js.map

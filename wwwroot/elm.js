@@ -3,9 +3,9 @@
  * @param {string} tag html tag name
  * @param {*} attributes an object with key values representing the diffrent attributes and their values
  * @param  {HTMLElement|string} children child element or text content
- * @returns 
+ * @returns
  */
-export function Elm(tag:string, attributes:{[name:string]:any}, ...children: Array<HTMLElement|string|Text>) {
+export function Elm(tag, attributes, ...children) {
     let result = document.createElement(tag);
     if (attributes) {
         for (let attrName in attributes) {
@@ -20,8 +20,8 @@ export function Elm(tag:string, attributes:{[name:string]:any}, ...children: Arr
         if (typeof n === "string") {
             n = document.createTextNode(n);
         }
-
         result.appendChild(n);
     });
     return result;
 }
+//# sourceMappingURL=elm.js.map

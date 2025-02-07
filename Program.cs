@@ -6,7 +6,9 @@
    var app = builder.Build();
    app.UseHttpsRedirection();
    app.UseCors(MyAllowSpecificOrigins);
-   app.UseStaticFiles();
+   app.UseStaticFiles(
+      new StaticFileOptions{  ServeUnknownFileTypes= true}
+   );
    app.MapDefaultControllerRoute();
    app.MapStaticAssets();
    app.MapControllers();

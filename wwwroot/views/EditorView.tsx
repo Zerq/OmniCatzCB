@@ -19,12 +19,12 @@ export const WorkSpaceChildView = (model:EditorModelLike, controller:EditorContr
 
     return Array.from(model.Events.values()).map(n => {
         let inst;
-        switch (n.EventName) {
+        switch (n.ActionName) {
             case ReadAloud.name:
                 let readAloud = n as ReadAloud;
                 inst = Elm("div",
                     {
-                        id: n.Id,
+                        id: (n as ReadAloud).Id,
                         draggable: true,
                         class: "box",
                         style: `left: ${readAloud.X + asideRect.width}px; top: ${readAloud.Y + headerRect.height}px; width: ${readAloud.Width}px; height: ${readAloud.Height}; `,
@@ -63,28 +63,22 @@ export const AssideView = (model:EditorModelLike, controller:EditorController) =
             Elm("input", { id: "itemId", disable:"", readonly: "", value: item.Id }),
             
             Elm("label", { for: "itemEventName" }, "EventName"),
-            Elm("input", { id: "itemEventName",disable:"",  readonly: "", value: item.EventName }),
-
-            Elm("label", { for: "itemBatchId" }, "BatchId"),
-            Elm("input", { id: "itemBatchId", disable:"", readonly: "", value: item.BatchId }),
-
-            Elm("label", { for: "itemType" }, "Type"),
-            Elm("input", { id: "itemType", disable:"", readonly: "", value: item.Type }),
+            Elm("input", { id: "itemEventName",disable:"",  readonly: "", value: item.ActionName }),
 
             Elm("label", { for: "itemVoice" }, "Voice"),
-            Elm("input", { id: "itemVoice", value: item.Voice }),
+            Elm("input", { id: "itemVoice", value: (item as ReadAloud).Voice }),
 
             Elm("label", { for: "itemSequenceNr" }, "SequenceNr"),
             Elm("input", { id: "itemSequenceNr", value: item.SequenceNr }),
 
             Elm("label", { for: "itemOverride" }, "Override"),
-            Elm("input", { id: "itemOverride", value: item.Override }),
+            Elm("input", { id: "itemOverride", value: (item as ReadAloud).Override }),
 
             Elm("label", { for: "itemX" }, "X"),
-            Elm("input", { id: "itemX", value: item.X }),
+            Elm("input", { id: "itemX", value: (item as ReadAloud).X }),
 
             Elm("label", { for: "itemY" }, "Y"),
-            Elm("input", { id: "itemY", value: item.Y }),
+            Elm("input", { id: "itemY", value: (item as ReadAloud).Y }),
         )
         
         
@@ -96,25 +90,22 @@ export const AssideView = (model:EditorModelLike, controller:EditorController) =
             Elm("input", { id: "itemId", readonly: "", value: item.Id }),
             
             Elm("label", { for: "itemEventName" }, "EventName"),
-            Elm("input", { id: "itemEventName", disable:"", readonly: "", value: item.EventName }),
-
-            Elm("label", { for: "itemBatchId" }, "BatchId"),
-            Elm("input", { id: "itemBatchId", disable:"", readonly: "", value: item.BatchId }),
+            Elm("input", { id: "itemEventName", disable:"", readonly: "", value: item.ActionName }),
 
             Elm("label", { for: "itemEffect" }, "Effect"),
-            Elm("input", { id: "itemEffect", value: item.Effect }),
+            Elm("input", { id: "itemEffect", value: (item as MoveTo).Effect }),
 
             Elm("label", { for: "itemSpeed" }, "Speed"),
-            Elm("input", { id: "itemSpeed", value: item.Speed }),
+            Elm("input", { id: "itemSpeed", value: (item as MoveTo).Speed }),
 
             Elm("label", { for: "itemZppm" }, "Zppm"),
-            Elm("input", { id: "itemZppm", value: item.Zppm }),
+            Elm("input", { id: "itemZppm", value: (item as MoveTo).Zoom }),
 
             Elm("label", { for: "itemX" }, "X"),
-            Elm("input", { id: "itemX", value: item.X }),
+            Elm("input", { id: "itemX", value: (item as MoveTo).X }),
 
             Elm("label", { for: "itemY" }, "Y"),
-            Elm("input", { id: "itemY", value: item.Y }),
+            Elm("input", { id: "itemY", value: (item as MoveTo).Y }),
 
 
         )
@@ -134,29 +125,36 @@ export const EditorView = (model:EditorModelLike, controller:EditorController) =
     };
     document.head.appendChild(Elm("link", { href: "./views/EditorView.css", rel: "stylesheet" }));
 
-    return Elm("div", { class: "designer" },
-        Elm("header", { class: "toolbox" },
-            Elm("div", {
-                id: "newBox",
-                draggable: "true",
-                onDragStart: e => controller.dragNew(e),
-                onDragEnd: e => controller.dragend(e),
-                class: "box"
-            }, "Read aloud"),
-            Elm("div", {
-                id: "newCirlcle",
-                draggable: "true",
-                onDragStart: e => controller.dragNew(e),
-                onDragEnd: e => controller.dragend(e),
-                class: "circle"
-            }, "Move To"),
-            Elm("button", {}, "Open"),
-            Elm("button", {}, "Next"),
-            Elm("button", {}, "Previous")
-        ),
-        Elm("aside", { class: "timeline" }, AssideView(model, controller)),
-        Elm("section", { id: "workArea", onDrop: e => controller.drop(e), "onDragOver": e => controller.allowDrop(e) },
 
-        )
+
+    return <div>
+        
+    </div>
+
+
+    // return Elm("div", { class: "designer" },
+    //     Elm("header", { class: "toolbox" },
+    //         Elm("div", {
+    //             id: "newBox",
+    //             draggable: "true",
+    //             onDragStart: e => controller.dragNew(e),
+    //             onDragEnd: e => controller.dragend(e),
+    //             class: "box"
+    //         }, "Read aloud"),
+    //         Elm("div", {
+    //             id: "newCirlcle",
+    //             draggable: "true",
+    //             onDragStart: e => controller.dragNew(e),
+    //             onDragEnd: e => controller.dragend(e),
+    //             class: "circle"
+    //         }, "Move To"),
+    //         Elm("button", {}, "Open"),
+    //         Elm("button", {}, "Next"),
+    //         Elm("button", {}, "Previous")
+    //     ),
+    //     Elm("aside", { class: "timeline" }, AssideView(model, controller)),
+    //     Elm("section", { id: "workArea", onDrop: e => controller.drop(e), "onDragOver": e => controller.allowDrop(e) },
+
+    //     )
     );
 };
